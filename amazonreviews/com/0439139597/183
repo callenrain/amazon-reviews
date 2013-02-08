@@ -1,0 +1,2820 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<script type="text/javascript">var ue_t0=ue_t0||+new Date();</script>
+<script type='text/javascript'>
+var ue_csm = window;
+ue_csm.ue_hob=ue_csm.ue_hob||+new Date();(function(a){a.ue_err={ec:0,pec:0,ts:0,erl:[],mxe:50,startTimer:function(){a.ue_err.ts++;setInterval(function(){a.ue&&(a.ue_err.pec<a.ue_err.ec)&&a.uex("at");a.ue_err.pec=a.ue_err.ec},10000)}};a.ueLogError=(function(){function b(c,e,d){if(a.ue_err.ec>a.ue_err.mxe){return}a.ue_err.ec++;a.ue.log({m:c,f:e,l:d,s:""},"jserr");return false}window.onerror=b;return function(c){if(a.ue_err.ec>a.ue_err.mxe){return}a.ue_err.ec++;a.ue_err.erl.push(c)}})()})(ue_csm);ue_csm.ue_hoe=+new Date();
+
+var ue_id='03WJ76WJ1G6Z7ZM1T43P',
+ue_sid='179-9295669-8358267',
+ue_mid='ATVPDKIKX0DER',
+ue_url='/product-reviews/0439139597/uedata/unsticky/179-9295669-8358267/CustomerReviews/ntpoffrw',
+ue_furl='fls-na.amazon.com',
+ue_pr=0,
+ue_navtiming=3,
+ue_tags=1,
+ue_ifr=1,
+ue_tofc=1,
+ue_log_idx=0,
+ue_pageviz=0;
+if (!window.ue_csm) {var ue_csm = window;}
+ue_csm.ue_hob=ue_csm.ue_hob||+new Date();(function(f,a){f.ueinit=(f.ueinit||0)+1;f.ue={t0:a.aPageStart||f.ue_t0,id:f.ue_id,url:f.ue_url,a:"",b:"",h:{},r:{ld:0,oe:0,ul:0},s:1,t:{},sc:{},iel:[],ielf:[],fc_idx:{},viz:[]};if(f.ue_tags&&f.ue_tags==1){f.ue.tagC=function(){var h=[];return function(i){if(i){h.push(i)}return h.slice(0)}};f.ue.tag=f.ue.tagC()}f.ue.ifr=((f.ue_ifr)&&((a.top!==a.self)||(a.frameElement)))?1:0;function c(j,m,o,l){var n=l||(new Date()).getTime();var h=!m&&typeof o!="undefined";if(h){return}if(j){var k=m?e("t",m)||e("t",m,{}):f.ue.t;k[j]=n;for(var i in o){e(i,m,o[i])}}return n}function e(i,j,k){var l,h;if(i){l=h=f.ue;if(j&&j!=l.id){h=l.sc[j];if(!h){h={};k?(l.sc[j]=h):h}}l=k?(h[i]=k):h[i]}return l}function d(l,m,k,i,h){var j="on"+k;var n=m[j];if(typeof(n)=="function"){if(l){f.ue.h[l]=n}}else{n=function(){}}m[j]=h?function(o){i(o);n(o)}:function(o){n(o);i(o)};m[j].isUeh=1}function g(o,k,n){function j(L,J){var H=[L],C=0,I={};if(J){H.push("m=1");I[J]=1}else{I=f.ue.sc}var A;for(var B in I){var D=e("wb",B),G=e("t",B)||{},F=e("t0",B)||f.ue.t0;if(J||D==2){var K=D?C++:"";H.push("sc"+K+"="+B);for(var E in G){if(E.length<=3&&G[E]){H.push(E+K+"="+(G[E]-F))}}H.push("t"+K+"="+G[o]);if(e("ctb",B)||e("wb",B)){A=1}}}if(!l&&A){H.push("ctb=1")}return H.join("&")}function r(C,B,E,A){if(C==""){return}var D=new Image();if(f.ue.b){D.onload=function(){if(f.ue.b==""){return}var G=f.ue.b;f.ue.b="";r(G,B,E,1)}}var F=!f.ue_tofc||(f.ue_tofc==1&&!A)||!f.ue.log||!window.amznJQ||(!A&&!E);if(F){f.ue.iel.push(D);D.src=C}if(f.ue_tofc&&f.ue.log&&(E||A)){f.ue.log(C,"uedata",{n:1});f.ue.ielf.push(C)}if(f.ue_err&&!f.ue_err.ts){f.ue_err.startTimer()}}function x(A){if(!ue.collected){var C=A.timing;if(C){f.ue.t.na_=C.navigationStart;f.ue.t.ul_=C.unloadEventStart;f.ue.t._ul=C.unloadEventEnd;f.ue.t.rd_=C.redirectStart;f.ue.t._rd=C.redirectEnd;f.ue.t.fe_=C.fetchStart;f.ue.t.lk_=C.domainLookupStart;f.ue.t._lk=C.domainLookupEnd;f.ue.t.co_=C.connectStart;f.ue.t._co=C.connectEnd;f.ue.t.sc_=C.secureConnectionStart;f.ue.t.rq_=C.requestStart;f.ue.t.rs_=C.responseStart;f.ue.t._rs=C.responseEnd;f.ue.t.dl_=C.domLoading;f.ue.t.di_=C.domInteractive;f.ue.t.de_=C.domContentLoadedEventStart;f.ue.t._de=C.domContentLoadedEventEnd;f.ue.t._dc=C.domComplete;f.ue.t.ld_=C.loadEventStart;f.ue.t._ld=C.loadEventEnd}var B=A.navigation;if(B){f.ue.t.ty=B.type+f.ue.t0;f.ue.t.rc=B.redirectCount+f.ue.t0;if(f.ue.tag){f.ue.tag(B.redirectCount?"redirect":"nonredirect")}}f.ue.collected=1}}var z=!k&&typeof n!="undefined";if(z){return}for(var h in n){e(h,k,n[h])}c("pc",k,n);var t=e("id",k)||f.ue.id;var m=f.ue.url+"?"+o+"&v=23&id="+t;var l=e("ctb",k)||e("wb",k);if(l){m+="&ctb="+l}if(f.ueinit>1){m+="&ic="+f.ueinit}var u=f.ue.bfini;if(u&&u>1){m+="&bf="+(u-1)}if(f.ue._fi&&o=="at"&&(!k||k==t)){m+=f.ue._fi()}var i;if((o=="ld"||o=="ul")&&(!k||k==t)){var w=a.performance||a.webkitPerformance;if(o=="ld"){if(a.onbeforeunload&&a.onbeforeunload.isUeh){a.onbeforeunload=null}if(document.ue_backdetect&&document.ue_backdetect.ue_back){document.ue_backdetect.ue_back.value++}if(f._uess){i=f._uess()}if(f.ue_navtiming&&w&&w.timing){e("ctb",t,"1");if(f.ue_navtiming==1){f.ue.t.tc=w.timing.fetchStart}else{if(f.ue_navtiming==3){f.ue.t.tc=w.timing.navigationStart}else{if(f.ue_navtiming==4){f.ue.t.tc=w.timing.requestStart}}}}}if(w){x(w)}if(f.ue_hob&&f.ue_hoe){f.ue.t.hob=f.ue_hob;f.ue.t.hoe=f.ue_hoe}if(f.ue.ifr){m+="&ifr=1"}}c(o,k,n);var s=(o=="ld"&&k&&e("wb",k));if(s){e("wb",k,2)}var v=1;for(var q in f.ue.sc){if(e("wb",q)==1){v=0;break}}if(s){if(f.ue.s!=0||!v){return}m=j(m,null)}else{if(v){var y=j(m,null);if(y!=m){f.ue.b=y}}if(i){m+=i}m=j(m,k||f.ue.id)}if(f.ue.b||s){for(var q in f.ue.sc){if(e("wb",q)==2){delete f.ue.sc[q]}}}var p=0;if(!s){f.ue.s=0;if(f.ue_err&&f.ue_err.ec>0){m+="&ec="+f.ue_err.ec}p=e("ctb",k);e("t",k,{})}if(f.ue_tofc&&f.ue.tag&&p){f.ue.tag("ue_tofc")}if(!window.amznJQ&&f.ue.tag){f.ue.tag("noAmznJQ")}if(f.ue_tags&&f.ue_tags==1){if(m&&f.ue.tag&&f.ue.tag().length>0){m+="&csmtags="+f.ue.tag().join("|");f.ue.tag=f.ue.tagC()}}if(m&&f.ue_pageviz&&f.ue.viz.length>0){m+="&viz="+f.ue.viz.join("|");f.ue.viz=[]}f.ue.a=m;r(m,o,p,s)}function b(){var j=f.ue.r;function i(l){return function(){if(!j[l]){j[l]=1;g(l)}}}f.onLd=i("ld");f.onLdEnd=i("ld");var h={beforeunload:i("ul"),stop:function(){g("os")}};for(var k in h){d(0,window,k,h[k])}if(f.ue_pageviz){ue_viz&&ue_viz()}if(a.addEventListener){a.addEventListener("load",f.onLd,false)}else{if(a.attachEvent){a.attachEvent("onload",f.onLd)}}f.ue._uep=function(){new Image().src=(f.ue_md?f.ue_md:"http://uedata.amazon.com/uedata/?tp=")+(+new Date)};if(f.ue_pr&&(f.ue_pr==2||f.ue_pr==4)){f.ue._uep()}if(f.queue){f.queue.replay=function(){while((nextArr=f.queue.remove("ue"))){nextArr[0].apply(this,nextArr.slice(1))}};f.queue.replay()}c("ue")}ue.reset=function(i,h){if(!i){return}f.ue_cel&&f.ue_cel.reset();f.ue.t0=+new Date();f.ue.rid=i;f.ue.id=i;f.ue.fc_idx={};f.ue.viz=[]};f.uei=b;f.ueh=d;f.ues=e;f.uet=c;f.uex=g;b()})(ue_csm,window);ue_csm.ue_hoe=+new Date();
+
+
+ue_csm.ue_hob=ue_csm.ue_hob||+new Date();(function(b){var a=b.ue;a.rid=b.ue_id;a.sid=b.ue_sid;a.mid=b.ue_mid;a.furl=b.ue_furl;a.lr=[];a.log=function(e,d,c){if(a.lr.length==500){return}a.lr.push(["l",e,d,c,a.d(),a.rid])};a.d=function(c){return +new Date-(c?0:a.t0)}})(ue_csm);ue_csm.ue_hoe=+new Date();
+</script>
+
+
+
+
+
+
+<title>Amazon.com: Customer Reviews: Harry Potter and the Goblet of Fire (Book 4)</title>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  var loader = new Image();
+  loader.src = "http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite-site-wide-2._V146303866_.png";
+
+  function spriteLoaded() {
+    if (typeof uet == 'function') { uet('cf'); }
+  }
+  loader.onLoad = spriteLoaded(); 
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="Javascript1.1" type="text/javascript">
+<!--
+function amz_js_PopWin(url,name,options){
+  var ContextWindow = window.open(url,name,options);
+  ContextWindow.focus();
+  return false;
+}
+//-->
+</script>
+
+
+
+
+ 
+ 
+
+
+
+
+<script type="text/javascript">
+
+var amznJQ,jQueryPatchIPadOffset=false;
+(function() {
+  function f(x) {return function(){x.push(arguments);}}
+  function ch(y) {return String.fromCharCode(y);}
+  var a=[],c=[],cs=[],d=[],l=[],o=[],s=[],p=[],t=[];
+  amznJQ={
+    _timesliceJS: false,
+    _a:a,_c:c,_cs:cs,_d:d,_l:l,_o:o,_s:s,_pl:p,
+    addLogical:f(l),
+    addStyle:f(s),
+    addPL:f(p),
+    available:f(a),
+    chars:{EOL:ch(10), SQUOTE:ch(39), DQUOTE:ch(34), BACKSLASH:ch(92), YEN:ch(165)},
+    completedStage:f(cs),
+    declareAvailable:f(d),
+    onCompletion:f(c),
+    onReady:f(o),
+    strings:{}
+  };
+}());
+
+
+</script>
+
+<link type='text/css' href='http://z-ecx.images-amazon.com/images/G/01/browser-scripts/us-site-wide-css-beacon/site-wide-7002449915._V1_.css' rel='stylesheet'>
+<style type="text/css">
+
+/* non-sprited */
+.ap_popover_unsprited .ap_body   .ap_left   { background-image: url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/po_left_17._V248144977_.png); }
+.ap_popover_unsprited .ap_body   .ap_right  { background-image: url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/po_right_17._V248144979_.png); }
+.ap_popover_unsprited .ap_header .ap_left   { background-image: url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/po_top_left._V265110087_.png); }
+.ap_popover_unsprited .ap_header .ap_right  { background-image: url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/po_top_right._V265110087_.png); }
+.ap_popover_unsprited .ap_header .ap_middle { background-image: url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/po_top._V265110086_.png); }
+.ap_popover_unsprited .ap_footer .ap_left   { background-image: url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/po_bottom_left._V265110084_.png); }
+.ap_popover_unsprited .ap_footer .ap_right  { background-image: url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/po_bottom_right._V265110087_.png); }
+.ap_popover_unsprited .ap_footer .ap_middle { background-image: url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/po_bottom._V265110084_.png); }
+
+/* Everything else -- sprited */
+.ap_popover_sprited .ap_body .ap_left, 
+.ap_popover_sprited .ap_body .ap_right {
+    background-image: url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/light/sprite-v._V219326283_.png);
+}
+
+
+.ap_popover_sprited .ap_header .ap_left, 
+.ap_popover_sprited .ap_header .ap_right,
+.ap_popover_sprited .ap_header .ap_middle,
+.ap_popover_sprited .ap_footer .ap_left, 
+.ap_popover_sprited .ap_footer .ap_right,
+.ap_popover_sprited .ap_footer .ap_middle,
+.ap_popover_sprited .ap_closebutton {
+    background-image: url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/light/sprite-h._V219326280_.png);
+}
+
+.ap_popover_sprited .ap_body .ap_right-arrow, .ap_popover_sprited .ap_body .ap_left-arrow {
+    background-image: url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/light/sprite-arrow-v._V219326286_.png);
+}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href='http://z-ecx.images-amazon.com/images/G/01/nav2/gamma/websiteGlobalCSS/websiteGlobalCSS-websiteGlobal-10346._V1_.css' type='text/css' rel='stylesheet'>
+<style type="text/css"><!--
+
+.sans, .small, .h1, .h3color, .big, .tiny, .tinyprice, .highlight, .eyebrow,
+    a:active, a:visited, a:link, div.unified_widget p.seeMore,
+    div.unified_widget .carat, div.left_nav .carat, div.left_nav, div.left_nav
+    h2, div.left_nav h3, div.left_nav a:link, div.left_nav a:visited,
+    .popover-tiny, .horizontal-search, .horizontal-websearch, .topnav,
+    .topnav-active a:link, .tabon a, .tabon a:visited, .taboff a, .taboff
+    a:visited div.leftnav_popover h2, .signInMsg{
+  font-family: verdana,arial,helvetica,sans-serif;
+}
+.listprice {
+  font-family: arial,verdana,helvetica,sans-serif;
+}
+.price {
+  font-family: arial,verdana,helvetica,sans-serif;
+}
+.serif, .sans, .h1, div.unified_widget .headline{
+  font-size: medium;
+}
+.big {
+  font-size: xx-large;
+}
+.small, .h3color, .highlight, .horizontal-search {
+  font-size: small;
+}
+.signInMsg {
+  font-size: x-small;
+}
+.tiny, .tinyprice, .popover-tiny, .horizontal-websearch {
+  font-size: x-small;
+}
+body, td, th {
+  font-family: verdana,arial,helvetica,sans-serif;
+  font-size: small;
+}
+.eyebrowBackGroundColor {
+  background-color: ;
+}
+div.left_nav, div.left_nav a:link, div.left_nav a:visited {
+  font-family: Arial, sans-serif;
+}
+
+body {
+  color: #000000;
+  margin-top: 0px;
+}
+--></style> 
+
+
+
+
+<style type="text/css"><!--
+
+.crAuthorInfo {
+  font-family:               verdana;
+  font-size:                 0.86em;
+  margin-left:               80px;
+}
+
+.crAuthorInfoCredibility {
+  font-family:               verdana;
+  font-size:                 0.86em;
+}
+
+.crBlue-bevel {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/sliced-box-tbevel._V192249888_.gif) repeat-x top;
+  height:                    1.45em;
+}
+
+.crBlueBorder-tl {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/border-box-tl._V192249923_.gif) no-repeat top left;
+  width:                     1em;
+}
+                                                                                                                                                             
+.crBlueBorder-tc {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/border-box-tc._V192249922_.gif) repeat-x top;
+}
+                                                                                                                                                             
+.crBlueBorder-tr {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/border-box-tr._V192249949_.gif) no-repeat top right;
+  width:                     1em;
+}
+                                                                                                                                                             
+.crBlueBorder-bl {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/border-box-bl._V192249926_.gif) no-repeat bottom left;
+}
+                                                                                                                                                             
+.crBlueBorder-bc {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/border-box-bc._V192249923_.gif) repeat-x bottom;
+}
+                                                                                                                                                             
+.crBlueBorder-br {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/border-box-br._V192249923_.gif) no-repeat bottom right;
+}
+
+.crBox {
+  background:                #DFEDF7;
+  padding:                   0.2em 1.5em 0.2em 1.5em;
+}
+
+.crBox-tl {
+  background:                #DFEDF7 url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/box-tl._V192249949_.gif) no-repeat top left;
+}
+
+.crBox-tc {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/box-tc._V192249950_.gif) repeat-x top;
+}
+
+.crBox-tr {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/box-tr._V192249948_.gif) no-repeat top right;
+}
+
+.crBox-bl {
+  background:                #DFEDF7 url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/box-bl._V192249921_.gif) no-repeat bottom left;
+}
+
+.crBox-bc {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/box-bc._V192249923_.gif) repeat-x bottom;
+}
+
+.crBox-br {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/box-br._V192249949_.gif) no-repeat bottom right;
+}
+
+.crColumnEndMarker {
+  clear:                     both;
+  height:                    13px;
+  background-image:          url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/people/column-bottom-edge._V192250335_.gif);
+  background-repeat:         no-repeat;
+}
+
+.crColumnEndMarker .rightEdge {
+  float:                     right;
+  background-image:          url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/people/column-bottom-edge-right._V192250334_.gif);
+  background-position:       right top;
+  background-repeat:         no-repeat;
+  width:                     13px;
+  height:                    13px;
+}
+
+
+.crCdDotsBottom {
+  clear:                     both;
+  padding:                   1px;;
+  font-size:                 0.0625em;
+  margin:                    0 0 5px 0;
+  background-image:          url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/people/dotborder._V192250320_.gif);
+  background-repeat:         repeat-x;
+  background-position:       center;
+}
+
+.crDescription {
+  font-family:               verdana;
+  margin-left:               80px;
+}
+
+
+.crErrorMsg {
+  color:                     red;
+  font-weight:               bold;
+}
+
+.crFanlink {
+  text-decoration: 	     none; 
+  border-top-width:          0; 
+  border-right-width:        0; 
+  border-bottom-width:       1px;
+  border-left-width:         0;
+  border-top-color:          #146EB4;
+  border-right-color:        #146EB4;
+  border-bottom-color:       #146EB4;
+  border-left-color:         #146EB4;
+  border-top-style:          none;
+  border-right-style:        none;
+  border-bottom-style:       dashed;
+  border-left-style:         none;
+  color:                     #003399; 
+}
+
+.crFinePrint {
+  font-size:                 0.7em;
+  margin-top:                0.7em;
+}
+
+.crForm {
+  width:                     100%;
+  display:                   block;
+}
+
+.crHeaderText {
+  color:                     #CC6600;
+  padding-left:              0;
+  padding-bottom:            5px;
+  font-family:               helvetica,
+  font-size:                 13px;
+  font-weight:               bold;
+  float:                     top;
+  float:                     left;
+}
+
+h2.crHeading {
+  color:                     #E47911;
+  font-family:               Verdana,Helvetica,sans-serif;
+  font-size:                 130%;
+  margin:                    0 0 3px;
+  padding-left:              0px;
+}
+
+h3.crHeading {
+  color:                     #E47911;
+  font-family:               Verdana,Helvetica,sans-serif;
+  font-size:                 100%;
+  margin:                    0 0 10px;
+}
+
+.crHeading {
+  color:                     #c60;
+  font-family:               sans-serif;
+  font-size:                 1.5em;
+  font-weight:               bold;
+  padding-bottom:            0.5em;
+  padding-left:              0.5em;
+}
+
+.crInnerBox {
+  padding:                   0.6em 2em 0.6em 2em;
+  background:                #EFF5F9;
+  clear:                     both;
+}
+
+.crInnerBox-tl {
+  background:                #EFF5F9 url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/innerbox-tl._V192249896_.gif) no-repeat top left;
+  clear: both;
+}
+
+.crInnerBox-tr {
+  background:                #EFF5F9 url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/innerbox-tr._V192249895_.gif) no-repeat top right;
+  clear: both;
+}
+
+.crInnerBox-bl {
+  background:                #EFF5F9 url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/innerbox-bl._V192249902_.gif) no-repeat bottom left;
+}
+
+.crInnerBox-br {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/innerbox-br._V192249902_.gif) no-repeat bottom right;
+}
+
+.crInputTitle {
+  font-weight:               bold;
+  vertical-align:            middle; 
+}
+
+.crInputFinePrint {
+  color:                     #6E6E6E; 
+  font-size:                 0.7em;
+  padding-bottom:            1.5em; 
+}
+
+.crInput {
+  padding:                   0em 0em 1.5em 0em;
+  vertical-align:            middle;
+}
+
+.crInputFormField {
+  font-family:               arial, helvetica, sans-serif;
+}
+
+.crInstruction {
+  padding-bottom:            0.4em;
+  float:                     left;
+}
+
+.crProductLinks {
+  padding-bottom:            0.4em;
+  float:                     right;
+  vertical-align:            top;  
+}
+
+.crLargerTitle {
+  font-family:               verdana, arial, helvetica, sans-serif;
+  font-size:                 1.6em;
+  color:                     #c60;
+  padding-bottom:            5px;
+  padding-top:               10px;
+}
+
+.crLine {
+  clear:                     both;
+  border:                    0;
+  height:                    2px;
+  color:                     #CADFE9;
+  background-color:          #CADFE9;
+  noshade:                   noshade;
+}
+
+.crPrevLeftButton {
+  padding-left:              15px; 
+  margin-bottom:             0px;
+}
+
+.crPrevRightButton {
+  margin-bottom:             0px;
+}
+
+.crPicture {
+  clear:                     both;
+  float:                     left;
+  text-align:                center;
+  width:                     80px;
+  overflow:                  hidden;
+  padding-top:               0.2em;
+}
+
+.crReviewHeader  {
+  font-family:               Verdana, Arial, Helvetica, sans-serif;
+  font-size:                 1.5em;
+  font-weight:               bold;
+  color:                     #e47911;
+  margin-top:                5px;
+}
+
+.crReviewSumBox {
+  height:                    36px;
+  background-image:          url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/people/column-eyebrow-visitor._V192250334_.gif);
+  background-repeat:         no-repeat;
+  font-family:               verdana;
+  font-size:                 36px;
+}
+
+.crReviewSumBox .titleText {
+  float:                     left;
+  font-weight:               bold;
+  padding-left:              10px;
+  padding-top:               10px;
+  font-size:                 13px;
+  font-family:               verdana;
+  color:                     #000000;
+  white-space:               nowrap;
+}
+
+.crReviewSumBox .rightEdge {
+  background-image:          url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/people/column-eyebrow-visitor-right._V192250335_.gif);
+  width:                     12px;
+  height:                    36px;
+  background-repeat:         no-repeat;
+  padding:                   0;
+  float:                     right;
+}
+
+.crSectionTitle {
+  color:                     #E57310;
+  font-size:                 16px;
+  font-weight:               bold;
+  margin-top:                5px;
+  margin-bottom:             5px;
+}
+
+.crProductReviewsSummary .crSolicitation {
+  margin-top:               -20px;
+}
+
+.crSideHeading {
+  color:                     #c60;
+  font-weight:               bold;
+  text-align:                center;
+  padding-top:               0.4em;
+}
+
+.crStepNum {
+  vertical-align:            top;
+  padding:                   0em 0.6em 1.5em 0em;
+}
+
+
+.crTanBorder-tl {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/boxes/boxfill/innerbox-tl._V192251350_.gif) no-repeat top left;
+  width:                     1em;
+}
+                                                                                                                                                             
+.crTanBorder-tc {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/boxes/boxfill/innerbox-tc._V192251344_.gif) repeat-x top;
+}
+                                                                                                                                                             
+.crTanBorder-tr {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/boxes/boxfill/innerbox-tr._V192244553_.gif) no-repeat top right;
+  width:                     1em;
+}
+                                                                                                                                                             
+.crTanBorder-bl {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/boxes/boxfill/innerbox-bl._V192251348_.gif) no-repeat bottom left;
+}
+                                                                                                                                                             
+.crTanBorder-bc {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/boxes/boxfill/innerbox-bc._V192241903_.gif) repeat-x bottom;
+}
+                                                                                                                                                             
+.crTanBorder-br {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/boxes/boxfill/innerbox-br._V192241895_.gif) no-repeat bottom right;
+}
+
+.crTextAreaHeader {
+  background:                #B6CFE5;
+  padding:                   0.4em 0em 0.4em 0em;
+  width:                     620px;
+}
+
+.crTextTab {
+  width:                     30%;
+  float:                     left;
+  white-space:               nowrap;
+}
+
+.crTextTabHeading {
+  padding:                   0.3em 0 0.7em 0.6em;
+}
+
+.crThreadHeader {
+  color:                     #CC6600;
+  font-weight:               bold;
+  float:                     left;
+}
+
+.crTipsBoxHeader {
+  font-size:                 0.90em;
+  font-weight:               bold;
+  margin-bottom:             10px;
+  margin-top:                10px;
+}
+
+.crTipsBoxTitle {
+  color:                     #CC6600;
+  font-size:                 1.1em;
+  font-weight:               bold;
+  margin-bottom:             10px;
+}
+
+h1.crTitle {
+  color:                     #E47911;
+  font-family:               Arial, Helvetica, sans-serif;
+  font-size:                 218%;
+  letter-spacing:            -0.03em;
+  margin:                    0;
+  padding:                   0;
+}
+
+.crTitle {
+  font-family:               verdana, arial, helvetica, sans-serif;
+  font-size:                 1.4em;
+  font-weight:               bold;
+}
+
+.crTab-tl {
+  background:                #EFF5F9 url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/innerbox-tl._V192249896_.gif) no-repeat top left;
+}
+
+.crTab-tr {
+  background:                url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/innerbox-tr._V192249895_.gif) no-repeat top right;
+}
+
+.crVideoUpload {
+  background:                #FFFFFF;
+  border:                    0.1em solid #7F9DB9;
+  text-align:                center;
+  padding:                   0.4em;
+}
+
+.crVidTab {
+  width:                     70%;
+  float:                     left;
+  white-space:               nowrap;
+}
+
+.crVidTabHeading {
+  padding:                   0.3em 0 0.7em 0.6em;
+}
+
+table.crDataGrid th {
+  background-color:          #EEEEEE;
+  font-weight:               normal;
+  font-size:                 70%;
+  text-align:                left;
+  color:                     #666666;
+}
+
+table.crDataGrid td {
+  border-bottom:            1px solid #CCCCCC;
+}
+
+table.crDataGrid .img {
+  height:                   92px;
+}
+
+table.crDataGrid .crNum {
+  text-align:               right;
+}
+
+table.crDataGrid .crNumPercentHelpful {
+  text-align:               right;
+  padding-right:20px;
+}
+
+table.crDataGrid .crNumFanVoters {
+  text-align:               right;
+  border-left: solid 1px #cccccc;
+}
+
+ul.crBigBullet {
+  margin:                    0em;
+  padding:                   0em;
+  list-style-image:          url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/big-bullet._V192249925_.gif);
+}
+
+ul.crSmallBullet {
+
+  padding-left:              0;
+  margin:                    0.4em 0em 0.6em 1.5em;
+  list-style-image:          url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/small-bullet._V192249889_.gif);
+}
+
+
+.srCreateReview td.name {
+  padding-left: 9px;
+}
+
+.srCreateReview .srPopoverList table.srList td a {
+  margin-left: 0px;
+}
+
+.srCreateReview .srPopoverList table.srList td.name span.newAttribute {
+  margin-left: 0px;
+  color:       #000000;
+}
+
+.srCreateReview .srPopoverFooter {
+  padding-left: 9px;
+  padding-top:  9px;
+}
+
+.srCreateReview .srPopoverContentSection .heading {
+  font-weight: normal;
+}
+
+#structuredRatingsList .cBox {
+  width: 375px;
+}
+
+.structuredRatingsVisibilityLink {
+  line-height: 2.5em;
+  font-size: 0.86em;
+}
+
+.structuredRatingsVisibilityLinkText {
+  margin-left: 5px;
+}
+
+#structuredRatingsListHelp {
+  font-size: 0.86em;
+  font-weight: normal;
+}
+
+#structuredRatingsList .srpopover .scrollSection {
+  height: 210px;
+}
+
+.crVerifiedNew {
+  font-size: 0.86em;
+  font-weight: bold;
+  color: #009900;
+  margin-right: 0.5em;
+} 
+
+.crVerifyLearnMore {
+  margin-left: 0.5em;
+}
+
+.crVerifiedPurchaseInputs {
+  display: block;
+  margin-bottom: 1em;
+}
+
+.crVerifiedBackfillSuboption {
+  display: block;
+  margin-left: 2em;
+}
+
+div.crCommentThread .cmPage {
+  margin-left: 5px;
+}
+
+div#cdNonReplyPostBoxButton {
+  margin-bottom: 40px;
+}
+
+#rdpItemInfo .crAvgStars {
+  font-size: 10px;
+}
+
+.crIneligibleHeader {
+  padding: 15px 9px 0 6px;
+  color:                     #E47911;
+  font-weight: 	             bold;
+  font-size:                 218%;
+  margin:                    0;
+}
+
+.crIneligibleMessage {
+  font-size: 12px;
+  border: solid 1px #0071B5;
+  position: relative;
+  background-color: #ffffdd;
+  border-color: #E47911;
+  padding: 18px 50px 18px 20px;
+  margin: 10px 0 40px 10px;
+}
+.crIneligibleMessageImage {
+  position: absolute;
+}
+.crIneligibleMessageHeader {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 0 4px 45px;
+  padding: 0;
+}
+.crIneligibleMessageText {
+  font-size:13px;
+  margin: 0 0 6px 45px;
+  width: 100%;
+}
+
+
+.crIFrame {
+  margin: 10px;
+}
+
+.crIFrameLogo {
+  margin-bottom: 20px;
+}
+
+.crIFrameHeaderLeftColumn {
+  float: left;
+  margin-right: 20px;
+}
+
+.crIFrameHeaderTitle {
+  font-size:      24px;
+  letter-spacing: -1px;
+}
+
+.crIFrameHeaderHistogram {
+  float: left;
+}
+
+.crIFrameError {
+  border-top:    1px solid #D1E6F7;
+  border-bottom: 1px solid #D1E6F7;
+
+  text-align:          center;
+  line-height:         24px;
+  width:               360px;
+  padding:             20px;
+  margin-top:          20px;
+}
+
+.crIFrameErrorText {
+  font-size:  14px;
+  font-weight: bold;
+}
+
+.crIFrameCreateReview {
+  margin-bottom:   3px;
+  white-space:     nowrap;
+}
+
+.crIFrameCreateReviewButton {
+  vertical-align:  middle;
+}
+
+.crIFrameAverageReviewText {
+  align: left;
+  font-weight: bold;
+}
+
+.crIFrameNumCustReviews {
+   white-space: nowrap;
+}
+
+.crIFrameReviewList {
+  width: 100%;
+  clear: left;
+}
+
+
+.CMheadingBar {
+  background:url(http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/tile-blue-bg._V46870869_.gif) repeat-x;
+  border-top:1px solid #BADAE8;
+  border-bottom:1px solid #BADAE8;
+  padding:6px;
+}
+
+.CMpaginate {
+  color:#666;
+}
+
+.CMpaginate .on {
+  border:1px solid #CC6600;
+  padding:3px;
+  background-color:white;
+  color:#CC6600;
+  text-decoration:none;
+}
+
+.CMpaginate a:link,
+.CMpaginate a:visited {
+  padding:4px;
+  text-decoration:none;
+}
+
+.CMpaginate a:hover {
+  padding:3px;
+  background-color:white;
+  border:1px solid #CC6600;
+  color:#CC6600;
+}
+
+a.areaLink, a.areaLink:visited {
+  text-decoration: none;
+  color: black;
+  display: block;
+}
+
+.areaLink .innerLink {
+  white-space: nowrap;
+  text-decoration: underline;
+  color: #039;
+}
+
+div.crVS {
+  width:       46%;
+  text-align:  center;
+  white-space: nowrap;
+}
+
+.crClear { clear: both; }
+.crLeft { float: left; }
+.crRight { float: right; }
+
+.attr-sheet { padding-left:5px; }
+.attr-sheet ul { margin-left: 31px; padding: 0; list-style: none; border: solid 1px #eee; border-radius: 5px; }
+.attr-sheet ul li { padding: 5px; }
+.attr-sheet li.alt { background: #F8F5D8 }
+.attr-sheet li .label { font-weight: bold }
+.attr-sheet li .vm { vertical-align: middle; }
+.attr-sheet li .option-line { width: 100%; line-height: 1.75em; }
+.attr-sheet li .option-line .label { float: left; width: 35%; max-width: 300px }
+.attr-sheet li .option-line .option { float: left; width: 30%; max-width: 200px }
+.attr-sheet li .option-undo { float: right; font-size: xx-small; display:none; }
+.attr-sheet li .textbar-text { margin-top: 2px; clear: both; }
+.attr-sheet li .textbar .empty { width: 35%; max-width: 300px; float:left; }
+.attr-sheet li .textbar input { width: 50%; margin-left:5px; float:left; }
+.attr-sheet li .textbar .blur { color: #999; }
+.attr-preview .boldLabel { font-weight: bold }
+.attr-preview .head { padding: 20px 0 0 25px }
+.attr-preview .head-detail { padding-top: 5px }
+.attr-preview .line { padding: 5px 0 15px 0 }
+.attr-preview .lines { padding: 10px 0 0 25px }
+
+.rypWgtDiv { margin-bottom: 20px; }
+
+.rypWgtImgLink { 
+    display: block;
+    width: 300px;
+    height: 97px;
+    background: url('http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/ryp-page-image2sprite._V399712482_.png') top;
+    text-indent: -10000px;
+}
+.rypWgtImgLink:hover {
+	background-position: bottom;
+} 
+
+--></style>
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/browser-scripts/fruitCSS/US-combined-3926343938._V146284167_.css" />
+
+
+
+
+
+
+<script type="text/javascript">
+if (window.amznJQ) {
+    amznJQ.addLogical('csm-base', [ "http://z-ecx.images-amazon.com/images/G/01/browser-scripts/csm-base/csm-base-min-2892755276._V1_.js" ]);
+    amznJQ.available('csm-base', function() {});
+}
+
+</script>
+</head>
+<body>
+<!-- BeginNav -->
+<!-- From remote config --><style type="text/css"><!--
+.nav-sprite {
+  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V397411194_.png);
+}
+.nav_pop_h {
+  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png);
+}
+.nav_pop_v {
+  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png);
+}
+.nav_ie6 .nav_pop_h {
+  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-h._V155961234_.png);
+}
+.nav_ie6 .nav_pop_v {
+  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-v._V155961234_.png);
+}
+.nav-ajax-loading .nav-ajax-message {
+  background: center center url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/snake._V192571611_.gif) no-repeat;
+}
+.iss-sprite {
+  background-image: url(http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/beacon-sprite._V391206562_.png);
+}
+--></style>
+  <!-- From remote config v3-->
+  <script type="text/javascript"><!--
+  window._navbarSpriteUrl = 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V397411194_.png';
+  amznJQ.available('popover', function() {
+    amznJQ.available('navbarBTF', function() {
+      var ie6 = jQuery.browser.msie && parseInt(jQuery.browser.version) <= 6,
+      h = new Image(), v = new Image(), c = 0, b, f, bi,
+      fn = function(p){ switch(typeof p){ case'boolean':{b=p;bi=1;break} case'function':{f=p} default:{c++} } if(bi&&c>2)f(b) };
+      
+      h.src = (ie6 ? 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-h._V155961234_.png' : 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png');
+      v.src = (ie6 ? 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-v._V155961234_.png' : 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png');
+      window._navpreload = {'sprite_h':h, 'sprite_v':v, '_protectExposeSBD':fn};
+
+      _navpreload._menuCallback = function() {
+        _navpreload.spin = new Image();
+        _navpreload.spin.src = 'http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/snake._V192571611_.gif';
+      };
+    });
+  });
+  --></script>
+<img src="http://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V397411194_.png" style="display:none" alt=""/>
+<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V386942464_.gif" style="display:none" alt="" id="nav_trans_pixel"/>
+
+
+
+
+
+
+
+        
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Pilu -->
+
+
+
+<script type='text/javascript'><!--
+    window.Navbar = function(options) {
+      options = options || {};
+
+      this._loadedCount = 0;
+      this._hasUedata = (typeof uet == 'function');
+      this._finishLoadQuota = options['finishLoadQuota'] || 2;
+      this._startedLoading = false;
+
+      this._btfFlyoutContents = [];
+    
+      this._saFlyoutHorizOffset = -16;
+      this._saMaskHorizOffset = -17;
+      
+      this._sbd_config = {
+        major_delay: 300,
+        minor_delay: 100,
+        target_slop: 25
+      };
+      
+      this.addToBtfFlyoutContents = function(content, callback) {
+        this._btfFlyoutContents.push({content: content, callback: callback});
+      }
+
+      this.getBtfFlyoutContents = function() {
+        return this._btfFlyoutContents;
+      }
+
+      this.loading = function() {
+        if (!this._startedLoading && this._isReportingEvents()) {
+          uet('ns');
+        }
+
+        this._startedLoading = true;
+      }
+
+      this.componentLoaded = function() {
+        this._loadedCount++;
+        if (this._startedLoading && this._isReportingEvents() && (this._loadedCount == this._finishLoadQuota)) {
+          uet('ne');
+        }
+      }
+
+      this._isReportingEvents = function() {
+        return this._hasUedata;
+      }
+
+      this.browsepromos = {};
+
+      this.issPromos = [];
+
+      this.le = {};
+
+      this.logEv = function(d, o) {
+      }
+
+    }
+
+    window._navbar = new Navbar({ finishLoadQuota: 1});
+    _navbar.loading();
+
+
+_navbar._ajaxProximity = [141,7,60,150];
+
+--></script>
+
+  <!-- navp-2Hr1KW/jlmTPoJHckFEhwf5LLK0EepoY4HgnZJdPh3tAxl9K5zajBe+IMeM91Z+Sb4PuXrA187k= rid-03WJ76WJ1G6Z7ZM1T43P templated -->
+  
+
+
+
+  <style type="text/css"><!--
+    .nav-searchfield-width {
+      padding: 0 2px 0 61px;
+    }
+
+    #nav-search-in {
+      width: 61px;
+    }
+
+  --></style>
+
+<![if gt IE 6]><noscript><![endif]>
+<style type="text/css"><!--
+    select#searchDropdownBox {
+      visibility: visible;
+      display: block;
+    }
+    div.nav-searchfield-width {
+      padding-left: 200px;
+    }
+    span#nav-search-in {
+      width: 200px;
+    }
+    #nav-search-in span#nav-search-in-content {
+      display: none;
+    }
+--></style>
+<![if gt IE 6]></noscript><![endif]>
+
+<header>
+  <div id='navbar' class='nav-beacon nav-subnav nav-prime-menu nav-logo-large'>
+
+    <div id='nav-cross-shop'>
+
+      <a href='/ref=gno_logo/179-9295669-8358267' id='nav-logo' class='nav_a nav-sprite' alt='Amazon'>
+        Amazon
+        <span class='nav-prime-tag nav-sprite'></span>
+      </a>
+      <a href='/gp/prime/signup/videos/ref=gno_joinprmlogo_combined/179-9295669-8358267' id='nav-prime-ttt' class='nav_a'>Join Prime</a>
+
+
+      <ul id='nav-cross-shop-links' >
+                      <li class='nav-xs-link first'><a href='/gp/yourstore/home/ref=topnav_ys/179-9295669-8358267' class='nav_a' id='nav-your-amazon'>Your Amazon.com</a></li>
+                          <li class='nav-xs-link '><a href='/gp/goldbox/ref=cs_top_nav_gb27/179-9295669-8358267' class='nav_a'>Today's Deals</a></li>
+                          <li class='nav-xs-link '><a href='/gp/gc/nav-split/ref=topnav_gcsplit/179-9295669-8358267' class='nav_a'>Gift Cards</a></li>
+                          <li class='nav-xs-link '><a href='/Help/b/ref=topnav_help/179-9295669-8358267?ie=UTF8&node=508510' class='nav_a'>Help</a></li>
+                    
+      </ul>
+
+      
+        <div id='welcomeRowTable' style='height:50px'>
+        <!--[if IE ]><div class='nav-ie-min-width' style='width: 770px'></div><![endif]-->
+        <div id='nav-ad-background-style' style='background-position: -800px 0px; background-image: url(http://g-ecx.images-amazon.com/images/G/01/img12/x-site/holiday/swms/shipping/holiday-ship_nonprime-08_swms._V397752094_.png);  height: 56px; margin-bottom: -6px; position: relative;background-repeat: no-repeat;'>
+          <div id='navSwmSlot'>
+            <div id="navSwmHoliday" style="background-image: url(http://g-ecx.images-amazon.com/images/G/01/img12/x-site/holiday/swms/shipping/holiday-ship_nonprime-08_swms._V397752094_.png); width: 400px; height: 50px; ">
+
+ <img alt='Holiday Ordering Cutoff Dates' src='http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V386942464_.gif' border='0' width='400px' height='50px' usemap='#nav-swm-holiday-map' > </div>
+
+<div style="display: none;">
+<map id="nav-swm-holiday-map" name="nav-swm-holiday-map">
+    <area shape="rect" coords="1,2,400,50" href ="/gp/gift-central/event/holiday-shipping/ref=nav_swm_npri_20121217?pf_rd_p=1445563802&pf_rd_s=nav-sitewide-msg&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=03WJ76WJ1G6Z7ZM1T43P" alt ="Holiday Ordering Cutoff Dates" />
+</map>
+</div>
+          </div>
+        </div>
+      </div>
+
+      <div style='clear: both;'></div>
+    </div>
+
+    <div id='nav-bar-outer'>
+
+      <div id='nav-logo-borderfade'><div class='nav-fade-mask'></div><div class='nav-fade nav-sprite'></div></div>
+
+      <div id='nav-bar-inner' class='nav-sprite'>
+
+        <a id='nav-shop-all-button' href='/gp/site-directory/ref=topnav_sad/179-9295669-8358267' class='nav_a nav-button-outer nav-menu-inactive' alt='Shop By Department'>
+          <span class='nav-button-mid nav-sprite'>
+            <span class='nav-button-inner nav-sprite'>
+              <span class='nav-button-title nav-button-line1'>Shop by</span>
+              <span class='nav-button-title nav-button-line2'>Department</span>
+            </span>
+          </span>
+          <span class='nav-down-arrow nav-sprite'></span>
+        </a>
+
+                  <label id='nav-search-label' for='twotabsearchtextbox'>
+            Search
+          </label>
+        
+        <div>
+          <form
+            action='/s/ref=nb_sb_noss/179-9295669-8358267'
+            method='get' name='site-search'
+            class='nav-searchbar-inner'
+                  >
+          
+
+            <span id='nav-search-in' class='nav-sprite'>
+              <span id='nav-search-in-content' data-value="search-alias=stripbooks">
+                Books
+              </span>
+              <span class='nav-down-arrow nav-sprite'></span>
+              <select name="url" id="searchDropdownBox" class="searchSelect" title="Search in"   ><option value="search-alias=aps">All Departments</option><option value="search-alias=instant-video">Amazon Instant Video</option><option value="search-alias=appliances">Appliances</option><option value="search-alias=mobile-apps">Apps for Android
+</option><option value="search-alias=arts-crafts">Arts, Crafts & Sewing</option><option value="search-alias=automotive">Automotive</option><option value="search-alias=baby-products">Baby</option><option value="search-alias=beauty">Beauty</option><option value="search-alias=stripbooks" selected="selected" current="parent">Books</option><option value="search-alias=mobile">Cell Phones & Accessories</option><option value="search-alias=apparel">Clothing & Accessories</option><option value="search-alias=collectibles">Collectibles</option><option value="search-alias=computers">Computers</option><option value="search-alias=financial">Credit Cards</option><option value="search-alias=electronics">Electronics</option><option value="search-alias=gift-cards">Gift Cards Store
+</option><option value="search-alias=grocery">Grocery & Gourmet Food</option><option value="search-alias=hpc">Health & Personal Care</option><option value="search-alias=garden">Home & Kitchen</option><option value="search-alias=industrial">Industrial & Scientific</option><option value="search-alias=jewelry">Jewelry</option><option value="search-alias=digital-text">Kindle Store</option><option value="search-alias=magazines">Magazine Subscriptions</option><option value="search-alias=movies-tv">Movies & TV</option><option value="search-alias=digital-music">MP3 Music</option><option value="search-alias=popular">Music</option><option value="search-alias=mi">Musical Instruments</option><option value="search-alias=office-products">Office Products</option><option value="search-alias=lawngarden">Patio, Lawn & Garden</option><option value="search-alias=pets">Pet Supplies</option><option value="search-alias=shoes">Shoes</option><option value="search-alias=software">Software</option><option value="search-alias=sporting">Sports & Outdoors</option><option value="search-alias=tools">Tools & Home Improvement</option><option value="search-alias=toys-and-games">Toys & Games</option><option value="search-alias=videogames">Video Games</option><option value="search-alias=watches">Watches</option></select>
+            </span>
+
+            <div class='nav-searchfield-outer nav-sprite'>
+              <div class='nav-searchfield-inner nav-sprite'>
+                <div class='nav-searchfield-width'>
+                  <div id='nav-iss-attach'>
+                    <input type='text' id='twotabsearchtextbox' title='Search For' value='' name='field-keywords' autocomplete='off'>
+                  </div>
+                </div>
+                <!--[if IE ]><div class='nav-ie-min-width' style='width: 360px'></div><![endif]-->
+              </div>
+            </div>
+
+            <div class='nav-submit-button nav-sprite'>
+              <input
+                type='submit'
+                value='Go'
+                class='nav-submit-input'
+                title='Go'
+              >
+            </div>
+
+          </form>
+        </div>
+
+        <a id='nav-your-account' href='https://www.amazon.com/gp/css/homepage.html/ref=gno_yam_ya/179-9295669-8358267' class='nav_a nav-button-outer nav-menu-inactive' alt='Your Account'>
+          <span class='nav-button-mid nav-sprite'>
+            <span class='nav-button-inner nav-sprite'>
+              <span id='nav-signin-title' class='nav-button-title nav-button-line1'  >
+                Hello.
+                <span id='nav-signin-text' class='nav-button-em'>Sign in</span>
+              </span>
+              <span class='nav-button-title nav-button-line2'>Your Account</span>
+            </span>
+          </span>
+          <span class='nav-down-arrow nav-sprite'></span>
+        </a>
+
+          <span class='nav-divider nav-divider-prime'></span>
+
+          <a id='nav-your-prime' href='/gp/prime/signup/videos/ref=nav_menu_combined/179-9295669-8358267' class='nav_a nav-button-outer nav-menu-inactive' alt='Join Prime'>
+            <span class='nav-button-mid nav-sprite'>
+              <span class='nav-button-inner nav-sprite'>
+                <span class='nav-button-title nav-button-line1'>Join</span>
+                <span class='nav-button-title nav-button-line2'>Prime</span>
+              </span>
+            </span>
+            <span class='nav-down-arrow nav-sprite'></span>
+          </a>
+
+          <span class='nav-divider nav-divider-account'></span>
+
+          <a id='nav-cart' href='/gp/cart/view.html/ref=gno_cart/179-9295669-8358267' class='nav_a nav-button-outer nav-menu-inactive' alt='Shopping Cart'>
+            <span class='nav-button-mid nav-sprite'>
+              <span class='nav-button-inner nav-sprite'>
+
+                <span class='nav-button-title nav-button-line1'> </span>
+                <span class='nav-button-title nav-button-line2'>Cart</span>
+
+                <span class='nav-cart-button nav-sprite'></span>
+                <span id='nav-cart-count' class='nav-cart-0'>0</span>
+
+              </span>
+            </span>
+            <span class='nav-down-arrow nav-sprite'></span>
+          </a>
+
+          <span class='nav-divider nav-divider-cart'></span>
+
+          <a id='nav-wishlist' href='/gp/registry/wishlist/ref=wish_list/179-9295669-8358267' class='nav_a nav-button-outer nav-menu-inactive' alt='Wish List'>
+            <span class='nav-button-mid nav-sprite'>
+              <span class='nav-button-inner nav-sprite'>
+                <span class='nav-button-title nav-button-line1'>Wish</span>
+                <span class='nav-button-title nav-button-line2'>List</span>
+              </span>
+            </span>
+            <span class='nav-down-arrow nav-sprite'></span>
+          </a>
+
+          <!-- nav-linktree-category -->
+          <!-- nav-linktree-subnav -->
+          <ul id='nav-subnav'>
+            <li class='nav-subnav-item nav-category-button'>
+              <a href='/books-used-books-textbooks/b/ref=topnav_storetab_b/179-9295669-8358267?ie=UTF8&node=283155' class='nav_a'>
+                Books
+              </a>
+            </li>
+
+                <li class="nav-subnav-item ">
+                  <a href='/Advanced-Search-Books/b/ref=sv_b_0/179-9295669-8358267?ie=UTF8&node=241582011' class='nav_a'>
+                   Advanced Search
+                  </a>
+                </li>
+                <li class="nav-subnav-item ">
+                  <a href='/Subjects-Books/b/ref=sv_b_1/179-9295669-8358267?ie=UTF8&node=1000' class='nav_a'>
+                   Browse Subjects
+                  </a>
+                </li>
+                <li class="nav-subnav-item ">
+                  <a href='/gp/new-releases/books/ref=sv_b_2/179-9295669-8358267' class='nav_a'>
+                   New Releases
+                  </a>
+                </li>
+                <li class="nav-subnav-item ">
+                  <a href='/gp/bestsellers/books/ref=sv_b_3/179-9295669-8358267' class='nav_a'>
+                   Best Sellers
+                  </a>
+                </li>
+                <li class="nav-subnav-item ">
+                  <a href='/Books/b/ref=sv_b_4/179-9295669-8358267?ie=UTF8&node=549028' class='nav_a'>
+                   The&nbsp;New&nbsp;York Times®&nbsp;Best&nbsp;Sellers
+                  </a>
+                </li>
+                <li class="nav-subnav-item ">
+                  <a href='/Childrens-Books/b/ref=sv_b_5/179-9295669-8358267?ie=UTF8&node=4' class='nav_a'>
+                   Children's Books
+                  </a>
+                </li>
+                <li class="nav-subnav-item ">
+                  <a href='/New-Used-Textbooks-Books/b/ref=sv_b_6/179-9295669-8358267?ie=UTF8&node=465600' class='nav_a'>
+                   Textbooks
+                  </a>
+                </li>
+                <li class="nav-subnav-item ">
+                  <a href='/Sell-Books/b/ref=sv_b_7/179-9295669-8358267?ie=UTF8&node=2205237011' class='nav_a'>
+                   Sell&nbsp;Your Books
+                  </a>
+                </li>
+
+          </ul>
+
+      </div>
+    </div>
+
+    
+  </div>
+</header>
+
+<!-- nav promo cached -->
+
+
+
+
+<map name="nav_imgmap_kindle" id="nav_imgmap_kindle">
+<area shape="rect" coords="0,0,440,151" href="/dp/B007HCCNJU/ref=sa_menu_ksz3" alt="Kindle Family Page"/>
+</map>
+
+
+
+<map name="nav_imgmap_cloud-drive" id="nav_imgmap_cloud-drive">
+<area shape="poly" coords="166,105,380,107,440,147,432,222,455,227,417,436,266,461,186,460,40,436,35,290,155,243" href="/gp/feature.html/ref=nav_sap_android?ie=UTF8&docId=1000848741" alt="Learn More about Cloud Drive Photos for Android"/>
+</map>
+
+
+
+<map name="nav_imgmap_audible" id="nav_imgmap_audible">
+<area shape="poly" coords="222,188,415,190,479,422,472,444,397,459,371,455,358,398,355,454,240,453,225,442,224,343,216,333,223,315,222,196" href="/b/ref=nav_sap_audible_a?_encoding=UTF8&node=2402172011" alt="Audible"/>
+<area shape="rect" coords="13,189,213,377" href="/b/ref=nav_sap_audible_b?_encoding=UTF8&node=2402172011" alt="Audible"/>
+<area shape="rect" coords="12,397,200,429" href="/b/ref=nav_sap_audible_c?_encoding=UTF8&node=2402172011" alt="Audible"/>
+</map>
+
+
+
+<map name="nav_imgmap_movies-music-games" id="nav_imgmap_movies-music-games">
+<area shape="poly" coords="425,464,449,457,463,416,448,376,483,341,457,317,447,280,432,271,405,279,390,310,361,305,354,315,356,340,322,366,327,417,346,460,419,464" href="/Outlet/b/ref=nav_sap_vglink?ie=UTF8&node=409566" alt="vgtopholidaydeals"/>
+<area shape="poly" coords="367,156,368,175,481,175,481,156" href="/Outlet/b/ref=nav_sap_vglink?ie=UTF8&node=409566" alt="vgtopholidaydeals"/>
+<area shape="poly" coords="482,195,403,197,404,177,484,176" href="/b/ref=nav_sap_music?ie=UTF8&node=4989003011" alt="musicbuble"/>
+<area shape="poly" coords="302,460,295,419,237,332,190,333,185,329,179,290,152,279,118,297,125,343,79,381,85,395,98,386,109,399,105,412,133,462,150,463,162,446,181,463,293,462" href="/b/ref=nav_sap_music?ie=UTF8&node=4989003011" alt="musicbuble"/>
+<area shape="poly" coords="341,462,334,436,324,424,315,334,340,322,376,283,383,262,409,253,399,227,386,208,356,209,320,245,267,288,253,241,235,239,208,258,235,313,233,330,298,420,299,458,338,464" href="/todaysdeals-dvd-bluray/b/ref=nav_sap_dvd?ie=UTF8&node=2921749011" alt="dvdtopholidaydeals"/>
+<area shape="poly" coords="369,153,371,137,481,137,479,153,376,154" href="/todaysdeals-dvd-bluray/b/ref=nav_sap_dvd?ie=UTF8&node=2921749011" alt="dvdtopholidaydeals"/>
+</map>
+
+
+
+<map name="nav_imgmap_electronics-computers" id="nav_imgmap_electronics-computers">
+<area shape="rect" coords="0,0,468,212" href="/b/ref=nav_sap_ce_overstock?_encoding=UTF8&node=172282" alt="ce overstock"/>
+</map>
+
+
+
+<map name="nav_imgmap_home-garden-tools" id="nav_imgmap_home-garden-tools">
+<area shape="rect" coords="0,0,490,210" href="/b/ref=nav_Kitchen_Gifts?ie=UTF8&node=2662142011" alt="Kitchen Gift Guide"/>
+</map>
+
+
+
+<map name="nav_imgmap_grocery-health-beauty" id="nav_imgmap_grocery-health-beauty">
+<area shape="poly" coords="56,176,116,157,171,137,232,93,241,51,280,31,334,7,377,2,395,32,395,78,375,114,384,146,424,171,427,208,429,280,442,366,449,417,382,463,284,494,73,493,40,374,29,250," href="/b/ref=nav_sap_dvg_Jul5?_encoding=UTF8&node=353413011" alt="HB Deals"/>
+</map>
+
+
+
+<map name="nav_imgmap_automotive-industrial" id="nav_imgmap_automotive-industrial">
+<area shape="poly" coords="0,283,215,282,216,0,486,1,486,518,0,518" href="/Deals-Automotive/b/ref=nav_sap_automotive?ie=UTF8&node=392446011" alt="Automotive Deals and Gifts"/>
+</map>
+
+
+
+<map name="nav_imgmap_mp3" id="nav_imgmap_mp3">
+<area shape="rect" coords="0,0,472,460" href="/b/ref=nav_sap_cldplyr_flyout?ie=UTF8&node=2658409011" alt="Cloud Player"/>
+</map>
+
+
+
+<map name="nav_imgmap_clothing-shoes-jewelry" id="nav_imgmap_clothing-shoes-jewelry">
+<area shape="rect" coords="0,0,480,467" href="/jewelry-watches-engagement-rings-diamonds/b/ref=nav_sap_jw_OnTheRocks?ie=UTF8&node=3367581" alt="On the rocks: a toast to holiday giving"/>
+</map>
+
+
+
+<map name="nav_imgmap_instant-video" id="nav_imgmap_instant-video">
+<area shape="rect" coords="243,38,495,490" href="/gp/feature.html/ref=nav_sap_aiv?ie=UTF8&docId=1000798971" alt="Amazon Instant Video now playing on iPhone, iPad, and iPod touch"/>
+<area shape="rect" coords="10,315,247,490" href="/gp/feature.html/ref=nav_sap_aiv?ie=UTF8&docId=1000798971" alt="Amazon Instant Video now playing on iPhone, iPad, and iPod touch"/>
+<area shape="rect" coords="181,237,245,318" href="/gp/feature.html/ref=nav_sap_aiv?ie=UTF8&docId=1000798971" alt="Amazon Instant Video now playing on iPhone, iPad, and iPod touch"/>
+</map>
+
+
+
+<map name="nav_imgmap_digital-games-software" id="nav_imgmap_digital-games-software">
+<area shape="poly" coords="8,257,119,252,192,272,239,203,265,153,306,104,337,77,386,75,460,69,518,68,520,470,3,469,2,378,2,298," href="/gp/feature.html/ref=browse-flyoutdec16-dvg-1?ie=UTF8&docId=1000716161" alt="Digital Holiday PC Download Deals"/>
+</map>
+
+
+
+<map name="nav_imgmap_books" id="nav_imgmap_books">
+<area shape="poly" coords="199,292,84,380,101,413,294,428,478,428,494,358,444,305,408,297,409,36,192,55" href="/b/ref=nav_sap_bks_gifts?_encoding=UTF8&node=509156" alt="Last-Minute Gift Ideas"/>
+<area shape="rect" coords="53,232,158,253" href="/b/ref=nav_sap_bks_gifts?_encoding=UTF8&node=509156" alt="Shop Books"/>
+<area shape="rect" coords="51,258,184,280" href="/gp/feature.html/ref=nav_sap_bks_gifts?ie=UTF8&docId=1000677541" alt="Shop Kindle Books"/>
+<area shape="rect" coords="50,282,172,302" href="/b/ref=nav_sap_bks_gifts?_encoding=UTF8&node=604934" alt="Shop Magazines"/>
+</map>
+
+
+
+<map name="nav_imgmap_toys-kids-baby" id="nav_imgmap_toys-kids-baby">
+<area shape="poly" coords="30,74,241,3,432,17,503,216,451,286,234,279,118,258,15,201,30,74" href="/Toys-Holiday-Event/b/ref=nav_sap_ToyCM?ie=UTF8&node=360960011" alt="Cyber Monday Week in Toys & Games"/>
+</map>
+
+
+
+<map name="nav_imgmap_sports-outdoors" id="nav_imgmap_sports-outdoors">
+<area shape="rect" coords="61,410,216,443" href="/Sales-Deals-Sports-Outdoors/b/ref=nav_sap_sg_sports_topholidaydeals?ie=UTF8&node=10805321" alt="TopHolidayDeals"/>
+</map>
+
+
+
+
+<script type="text/javascript"><!--
+_navbar.dynamicMenuUrl = '/gp/navigation/ajax/dynamicmenu.html/179-9295669-8358267';
+
+_navbar.dismissNotificationUrl = '/gp/navigation/ajax/dismissnotification.html/179-9295669-8358267';
+
+_navbar.dynamicMenus = false;
+
+_navbar.yourAccountClickable = true;
+
+_navbar.readyOnATF = false;
+
+_navbar.abbrDropdown = true;
+
+
+
+
+
+
+
+
+
+
+
+    if (typeof uet == 'function') {
+      uet('bb', 'iss-init-pc', {wb: 1});
+    }
+    
+    var iss
+    // BEGIN Deprecated globals
+      , issHost = "completion.amazon.com/search/complete"
+      , issMktid = "1"
+      , issSearchAliases = ["aps", "stripbooks", "popular", "apparel", "electronics", "sporting", "garden", "videogames", "toys-and-games", "jewelry", "digital-text", "digital-music", "watches", "grocery", "hpc", "instant-video", "baby-products", "office-products", "software", "magazines", "tools", "automotive", "misc", "industrial", "mi", "pet-supplies", "digital-music-track", "digital-music-album", "mobile", "mobile-apps", "movies-tv", "music-artist", "music-album", "music-song", "stripbooks-spanish", "electronics-accessories", "photo", "audio-video", "computers", "furniture", "kitchen", "audiobooks", "beauty", "shoes", "arts-crafts", "appliances", "gift-cards", "pets", "outdoor", "lawngarden", "collectibles", "financial"]
+      , updateISSCompletion = function() { iss.updateAutoCompletion(); };
+    // END deprecated globals
+    amznJQ.available('search-js-autocomplete', function() {
+      iss = new AutoComplete({
+        src: issHost,
+        mkt: issMktid,
+        aliases: issSearchAliases,
+        fb: 1,
+        dupElim: 0,
+        deptText: 'in {department}',
+        sugText: 'Search suggestions',
+        sc: 1,
+        hilite: 0,
+        ime: 0,
+        isNavInline: 1,
+        iac: 0
+      });
+      if (typeof uet == 'function' && typeof uex == 'function' ) {
+        uet('be', 'iss-init-pc', {wb: 1});
+        uex('ld', 'iss-init-pc', {wb: 1});
+      }
+    });
+
+
+
+
+    amznJQ.declareAvailable('navbarInline');
+    amznJQ.available('jQuery', function() {
+        amznJQ.available('navbarJS-beacon', function(){});
+    });
+
+
+
+
+    _navbar._endSpriteImage = new Image();
+    _navbar._endSpriteImage.onload = function() {_navbar.componentLoaded(); };
+    _navbar._endSpriteImage.src = window._navbarSpriteUrl;
+
+
+
+
+
+if (typeof uet == 'function') { uet('bb', 'qBootstrap', {wb: 1}); }
+
+amznJQ.onCompletion('amznJQ.criticalFeature', function() {
+  setTimeout(function() {
+    if (typeof uet == 'function') { uet('bb', 'qLoader', {wb: 1}); }
+    var Q = QUORUS, e = Q._eventRecord;
+    jQuery(document).ready(function() { e.domLoaded = new Date(); });
+    jQuery(window).load(function() { e.windowLoaded = new Date(); });
+
+    var sS = window.sessionStorage, lS = window.localStorage,
+        refQ = false,
+        inQ = refQ || sS && sS.q_blessed || lS && lS.q_blessed,
+        hasQ = sS && sS.q_seen || lS && lS.q_seen;
+    if (refQ) { sS && (sS.q_blessed = true); lS && (lS.q_seen = true); }
+    if (hasQ || inQ) {
+      var o = sS && sS.q_envOverride || lS && lS.q_envOverride;
+      if (o) {
+        Q._envOverride = o;
+        Q._amznJQFunctionalityName = 'quorus-env-override';
+      }
+      Q.loadQ();
+    }
+    amznJQ.declareAvailable('quorus');
+
+    if (typeof uet == 'function') { uet('be', 'qLoader', {wb: 1}); }
+    if (typeof uex == 'function') {
+        uex('ld', 'qLoader', {wb: 1});
+        uex('ld', 'qBootstrap', {wb: 1});
+    }
+  }, 0);
+});
+
+QUORUS = { _callbacks: [], _eventRecord: {boot: new Date()}, _siteKey: "amazon", _amznJQFunctionalityName: "quorus-stage2" };
+(function () {
+var Q = QUORUS;
+Q.use = function() { Q._callbacks.push(Array.prototype.slice.call(arguments, 0)); };
+Q.loadQ = function() {
+  stage2URL = 'https://d2idp7oxq0j5iu.cloudfront.net/bootstrap/' + (Q._envOverride ? ('override/'+Q._envOverride+'/'+Q._siteKey) : (Q._siteKey+'/stage2')) + '.js';
+  amznJQ.addLogical(Q._amznJQFunctionalityName, [stage2URL]);
+  amznJQ.available(Q._amznJQFunctionalityName, function() { });
+  Q.loadQ = function(){};
+};
+})();
+if (typeof uet == 'function') { uet('be', 'qBootstrap', {wb: 1}); }
+
+
+
+
+  _navbar.amabotandroid = "Get Hidden Object… free today";
+  amznJQ.onReady('jQuery', function() {
+    jQuery("#nav_amabotandroid").parent().html(_navbar.amabotandroid);
+  });
+
+
+ _navbar.browsepromos['android'] = {"destination":"/gp/product/ref=nav_sap_mas_12_12_17?ie=UTF8&ASIN=B008L3T37O","productTitle2":"(List Price: $1.99)","button":"Learn more","price":"FREE","productTitle":"Hidden Object - Where Fairies Dwell","headline":"Free App of the Day","image":"http://ecx.images-amazon.com/images/I/811Men-6%2BqL._SS100_.png"};
+ _navbar.browsepromos['kindle'] = {"width":440,"promoType":"wide","vertOffset":"-35","horizOffset":"28","height":151,"image":"http://g-ecx.images-amazon.com/images/G/01/gno/beacon/merch/browse/gno-family-440x151._V389693769_.png"}; 
+ _navbar.browsepromos['cloud-drive'] = {"width":460,"promoType":"wide","vertOffset":"0","horizOffset":"-20","height":471,"image":"http://g-ecx.images-amazon.com/images/G/01/digital/adrive/images/gno/androidTree2._V400785782_.png"}; 
+ _navbar.browsepromos['audible'] = {"width":479,"promoType":"wide","vertOffset":"0","horizOffset":"-19","height":471,"image":"http://g-ecx.images-amazon.com/images/G/01/Audible/en_US/images/creative/amazon/beacon/ADBCLRE_1177_headphones_beacon_sherlock3._V398117972_.png"}; 
+ _navbar.browsepromos['movies-music-games'] = {"width":514,"promoType":"wide","vertOffset":"0","horizOffset":"-20","height":465,"image":"http://g-ecx.images-amazon.com/images/G/01/img12/video-games/flyout/holiday_deals2_flyout._V398039646_.png"}; 
+ _navbar.browsepromos['electronics-computers'] = {"width":472,"promoType":"wide","vertOffset":"-8","horizOffset":"+13","height":219,"image":"http://g-ecx.images-amazon.com/images/G/01/img12/consumer-electronics/flyout/48-hour_sale_flyout._V398299545_.png"}; 
+ _navbar.browsepromos['home-garden-tools'] = {"width":506,"promoType":"wide","vertOffset":"0","horizOffset":"-10","height":255,"image":"http://g-ecx.images-amazon.com/images/G/01/img12/kitchen/flyout/Kitchen_holiday_flyout2._V398319555_.png"}; 
+ _navbar.browsepromos['grocery-health-beauty'] = {"width":511,"promoType":"wide","vertOffset":"0","horizOffset":"-20","height":429,"image":"http://g-ecx.images-amazon.com/images/G/01/img12/beauty/flyout/HB_flyout_hdeals._V398876132_.png"}; 
+ _navbar.browsepromos['automotive-industrial'] = {"width":487,"promoType":"wide","vertOffset":"-5","horizOffset":"-10","height":477,"image":"http://g-ecx.images-amazon.com/images/G/01/automotive/detail-page/11-19_browse-promo-image_flyout-v3._V397558004_.png"}; 
+ _navbar.browsepromos['mp3'] = {"width":460,"promoType":"wide","vertOffset":"-10","horizOffset":"-20","height":472,"image":"http://g-ecx.images-amazon.com/images/G/01/digital/music/mp3/mobile/GNO_MP3_KindleUpdate_460x472._V388179948_.png"}; 
+ _navbar.browsepromos['clothing-shoes-jewelry'] = {"width":480,"promoType":"wide","vertOffset":"0","horizOffset":"0","height":467,"image":"http://g-ecx.images-amazon.com/images/G/01/img12/JEWELRY/FLYOUT/11/Jewelry_flyout_SNS_rings._V401547013_.png"}; 
+ _navbar.browsepromos['instant-video'] = {"width":500,"promoType":"wide","vertOffset":"-10","horizOffset":"-20","height":495,"image":"http://g-ecx.images-amazon.com/images/G/01/img12/digital/flyout/GNO-flyout-AIV_iPhone-Launch_v2._V398149979_.png"}; 
+ _navbar.browsepromos['digital-games-software'] = {"width":500,"promoType":"wide","vertOffset":"0","horizOffset":"0","height":472,"image":"http://g-ecx.images-amazon.com/images/G/01/img12/video-games/flyout/12-16_dvg-digitalholiday-12_flyout._V398275432_.jpg"}; 
+ _navbar.browsepromos['books'] = {"width":497,"promoType":"wide","vertOffset":"0","horizOffset":"-18","height":433,"image":"http://g-ecx.images-amazon.com/images/G/01/img12/books/flyout/books-lastminute_gno-v2._V398035504_.png"}; 
+ _navbar.browsepromos['toys-kids-baby'] = {"width":505,"promoType":"wide","vertOffset":"0","horizOffset":"-6","height":289,"image":"http://g-ecx.images-amazon.com/images/G/01/img12/toys-games/Top_Holiday_Deals/thd-toys-n-games-flyout._V398610715_.png"}; 
+ _navbar.browsepromos['sports-outdoors'] = {"width":481,"promoType":"wide","vertOffset":"-44","horizOffset":"0","height":498,"image":"http://g-ecx.images-amazon.com/images/G/01/img12/sports/flyout/12-2_sports-gno-dec_flyout._V398321745_.png"}; 
+
+ amznJQ.declareAvailable('navbarPromosContent');
+--></script>
+
+<!--Tilu -->
+
+
+<!-- EndNav -->
+
+
+<script language="javascript">
+  if (typeof uet == 'function') { uet('af'); }
+</script>
+
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td valign="top">
+  
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 class="sans-serif" style="margin:2px 0 0 0; font-size:140%;">
+  <div style="color:#CC6600;">
+    Customer Reviews
+  </div>
+  <div style="font-size:80%;text-decoration:underline;">
+    
+
+
+
+
+
+
+<a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/dp/0439139597/ref=cm_cr_pr_product_top/179-9295669-8358267">Harry Potter and the Goblet of Fire (Book 4)</a>
+
+  </div>
+</h1>
+<br />
+<table id="productSummary" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td width="160">
+      <div style="width:160px;">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="display:block; text-align:center; padding-bottom: 5px;" class="tiny">
+  <b>5,295 Reviews</b>
+</div>
+<table border="0" cellspacing="1" cellpadding="0" align="left">
+<tr>
+<td align="left" style="padding-right:0.5em;padding-bottom:1px;white-space:nowrap;font-size:10px;">
+  <a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=cm_cr_pr_hist_5/179-9295669-8358267?ie=UTF8&filterBy=addFiveStar&showViewpoints=0" style="font-family:Verdana,Arial,Helvetica,Sans-serif;">5 star</a>:
+</td>
+<td style="min-width:60; background-color: #eeeecc" width="60" align="left" class="tiny" title="84%"><div style="background-color:#FFCC66; height:13px; width:84%;"></div></td>
+<td align="right" style="font-family:Verdana,Arial,Helvetica,Sans-serif;;font-size:10px;">&nbsp;(4,488)</td>
+</tr>
+<tr>
+<td align="left" style="padding-right:0.5em;padding-bottom:1px;white-space:nowrap;font-size:10px;">
+  <a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=cm_cr_pr_hist_4/179-9295669-8358267?ie=UTF8&filterBy=addFourStar&showViewpoints=0" style="font-family:Verdana,Arial,Helvetica,Sans-serif;">4 star</a>:
+</td>
+<td style="min-width:60; background-color: #eeeecc" width="60" align="left" class="tiny" title="9%"><div style="background-color:#FFCC66; height:13px; width:9%;"></div></td>
+<td align="right" style="font-family:Verdana,Arial,Helvetica,Sans-serif;;font-size:10px;">&nbsp;(508)</td>
+</tr>
+<tr>
+<td align="left" style="padding-right:0.5em;padding-bottom:1px;white-space:nowrap;font-size:10px;">
+  <a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=cm_cr_pr_hist_3/179-9295669-8358267?ie=UTF8&filterBy=addThreeStar&showViewpoints=0" style="font-family:Verdana,Arial,Helvetica,Sans-serif;">3 star</a>:
+</td>
+<td style="min-width:60; background-color: #eeeecc" width="60" align="left" class="tiny" title="2%"><div style="background-color:#FFCC66; height:13px; width:2%;"></div></td>
+<td align="right" style="font-family:Verdana,Arial,Helvetica,Sans-serif;;font-size:10px;">&nbsp;(156)</td>
+</tr>
+<tr>
+<td align="left" style="padding-right:0.5em;padding-bottom:1px;white-space:nowrap;font-size:10px;">
+  <a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=cm_cr_pr_hist_2/179-9295669-8358267?ie=UTF8&filterBy=addTwoStar&showViewpoints=0" style="font-family:Verdana,Arial,Helvetica,Sans-serif;">2 star</a>:
+</td>
+<td style="min-width:60; background-color: #eeeecc" width="60" align="left" class="tiny" title="1%"><div style="background-color:#FFCC66; height:13px; width:1%;"></div></td>
+<td align="right" style="font-family:Verdana,Arial,Helvetica,Sans-serif;;font-size:10px;">&nbsp;(65)</td>
+</tr>
+<tr>
+<td align="left" style="padding-right:0.5em;padding-bottom:1px;white-space:nowrap;font-size:10px;">
+  <a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=cm_cr_pr_hist_1/179-9295669-8358267?ie=UTF8&filterBy=addOneStar&showViewpoints=0" style="font-family:Verdana,Arial,Helvetica,Sans-serif;">1 star</a>:
+</td>
+<td style="min-width:60; background-color: #eeeecc" width="60" align="left" class="tiny" title="1%"><div style="background-color:#FFCC66; height:13px; width:1%;"></div></td>
+<td align="right" style="font-family:Verdana,Arial,Helvetica,Sans-serif;;font-size:10px;">&nbsp;(78)</td>
+</tr>
+<tr><td>&nbsp;</td><td><div style="width:60px;">&nbsp;</div></td><td>&nbsp;</td></tr>
+</table>
+
+      </div>
+    </td>
+    <td width="20"><div style="width:20px;">&nbsp;</div>&nbsp;</td>
+    <td valign="top" align="center">
+      <div class="tiny" align="left">
+        <div>
+          <b>Average Customer Review</b>
+        </div>
+        <div style="white-space:nowrap;">
+          <span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0439139597" ref="pr_all_summary_cm_cr_acr_pop_" >
+               <a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=pr_all_summary_cm_cr_acr_img/179-9295669-8358267?ie=UTF8&showViewpoints=1" ><span class="swSprite s_star_4_5 " title="4.7 out of 5 stars" ><span>4.7 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=pr_all_summary_cm_cr_acr_txt/179-9295669-8358267?ie=UTF8&showViewpoints=1" >5,295 customer reviews</a>)</span>
+        </div>
+        <div style="margin-top:10px;">
+          <div style="margin-bottom:5px;">
+            Share your thoughts with other customers
+          </div>
+          <a class="cmtySprite s_createYourOwnReviewTan " href="http://www.amazon.com/review/create-review/ref=cm_cr_pr_wr_but_top/179-9295669-8358267?ie=UTF8&asin=0439139597&channel=reviews-product&nodeID=" ><span>Create your own review</span></a>
+        </div>
+      </div>
+    </td>
+    <td><div style="width:20px;">&nbsp;</div>&nbsp;</td>
+    <td valign="top" align="right">
+      
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+  <FORM method="GET" action="/gp/community-content-search/results/ref=cm_srch_q_rtr/" style="padding:0; margin:0;"> 
+    <table border="0" cellpadding="0" cellspacing="0" style="" width="250">
+        <tr>
+            <td colspan="2" nowrap="nowrap" style="text-align:left;">
+                <label for="search_rtr"><b class="tiny">Search Customer Reviews</b></label>
+            </td>
+        </tr>
+        <tr>
+                <td style="width: 100%">
+                <input id="search_rtr" class="small" style="width: 100%;" type="text" name="query" value=""/>
+                <input type="hidden" name="search-alias" value="community-reviews"/>
+             
+            </td>
+            <td style="padding-left: 5px;"><input type="image" title="Go" alt="Go" border="0" class="swSprite s_goTan " id="" value="" name="Go" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V386942464_.gif"  /></td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <input type="checkbox" name="idx.asin" value="0439139597" checked> <span class="tiny">Only search this product's reviews</span>
+	  </td>
+	</tr>
+    </table>
+  </FORM>
+
+
+
+
+
+
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<b class="h3color">&rsaquo;&nbsp;</b><a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=cm_cr_pr_shwvpnt/179-9295669-8358267?ie=UTF8&pageNumber=183&showViewpoints=1&sortBy=bySubmissionDateDescending" ><b>See most helpful viewpoints</b></a><br/><br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table class="CMheadingBar" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td height="16" align="left" style="padding-left:4px;padding-right:4px;">
+      <div class="CMpaginate" style="white-space:nowrap;">
+        <span class="paging"><a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=cm_cr_pr_top_link_prev_182/179-9295669-8358267?ie=UTF8&pageNumber=182&showViewpoints=0&sortBy=bySubmissionDateDescending" >&lsaquo; Previous</a> | <a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=cm_cr_pr_top_link_1/179-9295669-8358267?ie=UTF8&showViewpoints=0&sortBy=bySubmissionDateDescending" >1</a> &hellip; <a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=cm_cr_pr_top_link_182/179-9295669-8358267?ie=UTF8&pageNumber=182&showViewpoints=0&sortBy=bySubmissionDateDescending" >182</a> <span class="on">183</span> <a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=cm_cr_pr_top_link_184/179-9295669-8358267?ie=UTF8&pageNumber=184&showViewpoints=0&sortBy=bySubmissionDateDescending" >184</a> &hellip; <a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=cm_cr_pr_top_link_530/179-9295669-8358267?ie=UTF8&pageNumber=530&showViewpoints=0&sortBy=bySubmissionDateDescending" >530</a>| <a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=cm_cr_pr_top_link_next_184/179-9295669-8358267?ie=UTF8&pageNumber=184&showViewpoints=0&sortBy=bySubmissionDateDescending" >Next &rsaquo;</a> </span>
+      </div>
+    </td>
+    <td height="16" align="right" style="padding-right:4px;">
+      <div class="" style="white-space:nowrap;">
+        <a href="http://www.amazon.com/Harry-Potter-Goblet-Fire-Book/product-reviews/0439139597/ref=cm_cr_pr_top_helpful/179-9295669-8358267?ie=UTF8&showViewpoints=0" >Most Helpful First</a> | <b class="on">Newest First</b>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+<table id="productReviews" width="100%" cellspacing="0" cellpadding="0">
+<tr>
+  <td width="90%">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BOUNDARY -->
+<a name="R1TJGR016606PN"></a><br />
+
+
+<div style="margin-left:0.5em;">
+    
+      <div style="margin-bottom:0.5em;">
+        2 of 2 people found the following review helpful
+      </div>
+      <div style="margin-bottom:0.5em;">
+        <span style="margin-right:5px;"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span> </span>
+        <span style="vertical-align:middle;"><b>Harry Potter</b>, <nobr>March 20, 2001</nobr></span>
+      </div>
+      <div style="margin-bottom:0.5em;">
+        <div><div style="float:left;">By&nbsp;</div><div style="float:left;"><a href="http://www.amazon.com/gp/pdp/profile/A2RX4SPNN6CJU4/ref=cm_cr_pr_pdp/179-9295669-8358267" ><span style = "font-weight: bold;">"petesxpens"</span></a> (USA)  - <a href="http://www.amazon.com/gp/cdp/member-reviews/A2RX4SPNN6CJU4/ref=cm_cr_pr_auth_rev/179-9295669-8358267?ie=UTF8&amp;sort_by=MostRecentReview">See all my reviews</a></div></div><div style="clear:both;"></div>
+      </div>
+      <div class="tiny" style="margin-bottom:0.5em;">
+        <b><span class="h3color tiny">This review is from: </span>Harry Potter and the Goblet of Fire (Book 4) (Hardcover)</b>
+      </div>
+
+I thought that Harry Potter and the Goblet of Fire was a kind of a tough book because you had to read a lot of magic words.  A book like this is not read by a lot of kids in my third grade class because word passed that it was not a good book and was stupid but I think someone could not have fun reading it so he decided that he would not let anyone else have fun reading.  I have read all four books and just could not put the four books down so if you want a good book read Harry Potter and the Goblet of Fire.  It is about a boy named Harry Potter who goes to a castle called Hogwarts and he gets randomly picked for a Tournament called the Triwizard Tournament but who put his name in the Goblet?  Read Harry Potter and the Goblet of Fire to learn more!<p>note:Read the first book first, then the second, then the third, then the fourth<p>BY J.K Rowling  Illustrator is Mary Grandpre
+      <div style="padding-top: 10px; clear: both; width: 100%;">
+
+        <div style="float:left; padding-right:15px; border-right:1px solid #CCCCCC"><div style="padding-bottom:5px;"><b class="tiny" style="color:#666666;white-space:nowrap;">Help other customers find the most helpful reviews</b>&nbsp;</div><div style="width:300px;">
+
+
+
+
+
+
+
+
+
+<a name="R1TJGR016606PN.2115.Helpful.Reviews" style="font-size:1px;"> </a><span
+class="crVotingButtons"><nobr><span class="votingPrompt">Was this review helpful to you?&nbsp;</span><a rel="nofollow" class="votingButtonReviews" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R1TJGR016606PN/Helpful/1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=BD4CDEC90BCE04151EC090AEA5F9C4C9CEBFE9F1&voteAnchorName=R1TJGR016606PN.2115.Helpful.Reviews&voteSessionID=179-9295669-8358267"><span class="cmtySprite s_largeYes " ><span>Yes</span></span></a>
+<a rel="nofollow" class="votingButtonReviews" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R1TJGR016606PN/Helpful/-1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=988D6F3FEFC6B1684C81717167CF94CD214C6704&voteAnchorName=R1TJGR016606PN.2115.Helpful.Reviews&voteSessionID=179-9295669-8358267"><span class="cmtySprite s_largeNo " ><span>No</span></span></a></nobr> <span class="votingMessage"></span></span>
+
+</div></div><div style="float:left;"><div style="padding-left:15px;"><div style="white-space:nowrap;"><span class='tiny'>
+
+
+
+
+
+
+
+
+<a name="R1TJGR016606PN.2115.Inappropriate.Reviews" style="font-size:1px;"> </a><span class="reportingButton"><nobr><a rel="nofollow" class="reportingButton" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R1TJGR016606PN/Inappropriate/1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=A935B4FBA45A4A7F527ADC37345921332BAA88CD&voteAnchorName=R1TJGR016606PN.2115.Inappropriate.Reviews&voteSessionID=179-9295669-8358267"
+>Report abuse</a></nobr></span>
+</span> <span style="color:#CCCCCC;">|</span> <span class="tiny"><a href="http://www.amazon.com/review/R1TJGR016606PN/ref=cm_cr_pr_perm/?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=" >Permalink</a></span></div><div style="white-space:nowrap;padding-left:-5px;padding-top:5px;"><a href="http://www.amazon.com/review/R1TJGR016606PN/ref=cm_cr_pr_cmt/179-9295669-8358267?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=#wasThisHelpful" ><span class="swSprite s_comment " ><span>Comment</span></span></a>&nbsp;<a href="http://www.amazon.com/review/R1TJGR016606PN/ref=cm_cr_pr_cmt/179-9295669-8358267?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=#wasThisHelpful" >Comment</a></div></div></div><div style="clear:both;"></div>
+      </div>
+      <br />
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BOUNDARY -->
+<a name="R2KI9Y8Z4OXZUG"></a><br />
+
+
+<div style="margin-left:0.5em;">
+    
+      <div style="margin-bottom:0.5em;">
+        7 of 7 people found the following review helpful
+      </div>
+      <div style="margin-bottom:0.5em;">
+        <span style="margin-right:5px;"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span> </span>
+        <span style="vertical-align:middle;"><b>A Rare Spell</b>, <nobr>March 19, 2001</nobr></span>
+      </div>
+      <div style="margin-bottom:0.5em;">
+        By <b>A Customer</b><br />
+      </div>
+      <div class="tiny" style="margin-bottom:0.5em;">
+        <b><span class="h3color tiny">This review is from: </span>Harry Potter and the Goblet of Fire (Book 4) (Hardcover)</b>
+      </div>
+
+I've been looking for a series of books like this particular set ever since CS Lewis's &quot;Chronicles of Narnia&quot;.That's what? A period of over 10 years? Yeah it's been awhile. Ohh I was a skeptic first (Harry who?) until I borrowed &quot;Sorcerer's Stone&quot; from a fellow freshman. <p>I'm a changed person.<p>The fourth book is a culmination of excitement, emotion and just plain fervent page turning reading. Word of caution - read the first three or you'll never get through this book alive (and why would you want to?Half the fun is being immersed totally in this alternate world of Rowling's). It's one of those books that begs a quick sequel - but Rowling's a hell of a marketer and the fifth installment won't be soon enough in coming for anyone. <p>It's amazing - the deadly serious (literally) problems that Harry encounters in this book are ever so present (nay - increase tenfold is more like it) and yet its still the kind of book a child should read, and even encourages the adult reader to look at it from perspectives that should be had once in a while (we take things way too seriously for our own good after we turn 19).The plot's development tears at the heartstrings of the reader as the scenes with Harry's parents, the death of a rival and the maturing of Harry in terms of love and courage come and go. The mystery of Snape, the powers of Dumbledore, the  horror of the very, very changed world that is presented at the end of the novel is enough to make any follower of this epic just breathe with amazement at the skill of the author in creating a good story.<p>Buy the series if you haven't yet. Few authors create worlds where we'd want to stay as Rowling has done. This one's a keeper. I beg her to release the fifth book as soon as possible. We Muggles can only take so much after all......
+      <div style="padding-top: 10px; clear: both; width: 100%;">
+
+        <div style="float:left; padding-right:15px; border-right:1px solid #CCCCCC"><div style="padding-bottom:5px;"><b class="tiny" style="color:#666666;white-space:nowrap;">Help other customers find the most helpful reviews</b>&nbsp;</div><div style="width:300px;">
+
+
+
+
+
+
+
+
+
+<a name="R2KI9Y8Z4OXZUG.2115.Helpful.Reviews" style="font-size:1px;"> </a><span
+class="crVotingButtons"><nobr><span class="votingPrompt">Was this review helpful to you?&nbsp;</span><a rel="nofollow" class="votingButtonReviews" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2KI9Y8Z4OXZUG/Helpful/1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=C6784031BD81A25AAE0FC0D9C65B06C1B9E93175&voteAnchorName=R2KI9Y8Z4OXZUG.2115.Helpful.Reviews&voteSessionID=179-9295669-8358267"><span class="cmtySprite s_largeYes " ><span>Yes</span></span></a>
+<a rel="nofollow" class="votingButtonReviews" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2KI9Y8Z4OXZUG/Helpful/-1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=3E1C32CFED1CA4312F0A9E1BA8FACF583397307C&voteAnchorName=R2KI9Y8Z4OXZUG.2115.Helpful.Reviews&voteSessionID=179-9295669-8358267"><span class="cmtySprite s_largeNo " ><span>No</span></span></a></nobr> <span class="votingMessage"></span></span>
+
+</div></div><div style="float:left;"><div style="padding-left:15px;"><div style="white-space:nowrap;"><span class='tiny'>
+
+
+
+
+
+
+
+
+<a name="R2KI9Y8Z4OXZUG.2115.Inappropriate.Reviews" style="font-size:1px;"> </a><span class="reportingButton"><nobr><a rel="nofollow" class="reportingButton" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2KI9Y8Z4OXZUG/Inappropriate/1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=E48B33BDE852E0D81E39916D90FB91AC8C14C0A8&voteAnchorName=R2KI9Y8Z4OXZUG.2115.Inappropriate.Reviews&voteSessionID=179-9295669-8358267"
+>Report abuse</a></nobr></span>
+</span> <span style="color:#CCCCCC;">|</span> <span class="tiny"><a href="http://www.amazon.com/review/R2KI9Y8Z4OXZUG/ref=cm_cr_pr_perm/?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=" >Permalink</a></span></div><div style="white-space:nowrap;padding-left:-5px;padding-top:5px;"><a href="http://www.amazon.com/review/R2KI9Y8Z4OXZUG/ref=cm_cr_pr_cmt/179-9295669-8358267?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=#wasThisHelpful" ><span class="swSprite s_comment " ><span>Comment</span></span></a>&nbsp;<a href="http://www.amazon.com/review/R2KI9Y8Z4OXZUG/ref=cm_cr_pr_cmt/179-9295669-8358267?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=#wasThisHelpful" >Comment</a></div></div></div><div style="clear:both;"></div>
+      </div>
+      <br />
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BOUNDARY -->
+<a name="R2YFW2OH53V3EU"></a><br />
+
+
+<div style="margin-left:0.5em;">
+    
+      <div style="margin-bottom:0.5em;">
+        1 of 1 people found the following review helpful
+      </div>
+      <div style="margin-bottom:0.5em;">
+        <span style="margin-right:5px;"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span> </span>
+        <span style="vertical-align:middle;"><b>Let Them Read Harry Potter!!!!</b>, <nobr>March 19, 2001</nobr></span>
+      </div>
+      <div style="margin-bottom:0.5em;">
+        <div><div style="float:left;">By&nbsp;</div><div style="float:left;"><a href="http://www.amazon.com/gp/pdp/profile/A1DTZ06TVRAVPY/ref=cm_cr_pr_pdp/179-9295669-8358267" ><span style = "font-weight: bold;">WishMeLuck</span></a> (The End of the World As You Know It)  - <a href="http://www.amazon.com/gp/cdp/member-reviews/A1DTZ06TVRAVPY/ref=cm_cr_pr_auth_rev/179-9295669-8358267?ie=UTF8&amp;sort_by=MostRecentReview">See all my reviews</a></div></div><div style="clear:both;"></div>
+      </div>
+      <div class="tiny" style="margin-bottom:0.5em;">
+        <b><span class="h3color tiny">This review is from: </span>Harry Potter and the Goblet of Fire (Book 4) (Hardcover)</b>
+      </div>
+
+I find it quite interesting that the folks who write those really crushing, insulting and long-winded reviews never seem to be able to spell, not to mention form a grammatically correct sentence. This goes for all books, not just Harry Potter by the way. <p>So Rowling isn't the best writer who had ever lived. So what? I've read so-called best sellers that do not reach up to her ankles. The story is engaging and entertaining and if you are too sophisticated to be able to take a little predictability then it's your bad luck. How realistic and &quot;believable&quot; do want a book to be? This is supposed to be an escape from reality, not a repetition of your day at work.<p>As to the ending... if you are one of those over-protective parents who attempt to screen their kids from anything BAD, you might want to read this first. As far as I'm concerned, a little violence in a book doesn't hurt. As a child I've always reveled in a direct threat to the main character. I wanted to be SCARED. It made my stomach tingle. And guess what? I'm not out there shooting up school classrooms. I have, quite literally, never hurt a fly.  I think we're too worried about what kind of example books and media give to our children. THEY DON'T - WE AS THE PARENTS DO. The media are meant as entertainment and release, and as long as we are our kids' role models that is all they will be. <p>Read on. Just for the fun of it. Don't play the critic, just enjoy it.
+      <div style="padding-top: 10px; clear: both; width: 100%;">
+
+        <div style="float:left; padding-right:15px; border-right:1px solid #CCCCCC"><div style="padding-bottom:5px;"><b class="tiny" style="color:#666666;white-space:nowrap;">Help other customers find the most helpful reviews</b>&nbsp;</div><div style="width:300px;">
+
+
+
+
+
+
+
+
+
+<a name="R2YFW2OH53V3EU.2115.Helpful.Reviews" style="font-size:1px;"> </a><span
+class="crVotingButtons"><nobr><span class="votingPrompt">Was this review helpful to you?&nbsp;</span><a rel="nofollow" class="votingButtonReviews" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2YFW2OH53V3EU/Helpful/1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=FC196D748241ACF125E5BB11FF2FC5BD454BBB41&voteAnchorName=R2YFW2OH53V3EU.2115.Helpful.Reviews&voteSessionID=179-9295669-8358267"><span class="cmtySprite s_largeYes " ><span>Yes</span></span></a>
+<a rel="nofollow" class="votingButtonReviews" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2YFW2OH53V3EU/Helpful/-1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=FA624227C797FFFC7AD051F49A1309A1F3A2A8E1&voteAnchorName=R2YFW2OH53V3EU.2115.Helpful.Reviews&voteSessionID=179-9295669-8358267"><span class="cmtySprite s_largeNo " ><span>No</span></span></a></nobr> <span class="votingMessage"></span></span>
+
+</div></div><div style="float:left;"><div style="padding-left:15px;"><div style="white-space:nowrap;"><span class='tiny'>
+
+
+
+
+
+
+
+
+<a name="R2YFW2OH53V3EU.2115.Inappropriate.Reviews" style="font-size:1px;"> </a><span class="reportingButton"><nobr><a rel="nofollow" class="reportingButton" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2YFW2OH53V3EU/Inappropriate/1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=8813CBB03DD7E1DC5B95C20A1AB892163F4588EC&voteAnchorName=R2YFW2OH53V3EU.2115.Inappropriate.Reviews&voteSessionID=179-9295669-8358267"
+>Report abuse</a></nobr></span>
+</span> <span style="color:#CCCCCC;">|</span> <span class="tiny"><a href="http://www.amazon.com/review/R2YFW2OH53V3EU/ref=cm_cr_pr_perm/?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=" >Permalink</a></span></div><div style="white-space:nowrap;padding-left:-5px;padding-top:5px;"><a href="http://www.amazon.com/review/R2YFW2OH53V3EU/ref=cm_cr_pr_cmt/179-9295669-8358267?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=#wasThisHelpful" ><span class="swSprite s_comment " ><span>Comment</span></span></a>&nbsp;<a href="http://www.amazon.com/review/R2YFW2OH53V3EU/ref=cm_cr_pr_cmt/179-9295669-8358267?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=#wasThisHelpful" >Comment</a></div></div></div><div style="clear:both;"></div>
+      </div>
+      <br />
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BOUNDARY -->
+<a name="R2804RB4S34W2K"></a><br />
+
+
+<div style="margin-left:0.5em;">
+    
+      <div style="margin-bottom:0.5em;">
+        <span style="margin-right:5px;"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span> </span>
+        <span style="vertical-align:middle;"><b>Let your kids read Harry Potter</b>, <nobr>March 19, 2001</nobr></span>
+      </div>
+      <div style="margin-bottom:0.5em;">
+        <div><div style="float:left;">By&nbsp;</div><div style="float:left;"><a href="http://www.amazon.com/gp/pdp/profile/A3OCQOZ92W7OBE/ref=cm_cr_pr_pdp/179-9295669-8358267" ><span style = "font-weight: bold;">Ignacius Benedict Merryweather "coppercarbonate"</span></a> (The center of the universe, of course!)  - <a href="http://www.amazon.com/gp/cdp/member-reviews/A3OCQOZ92W7OBE/ref=cm_cr_pr_auth_rev/179-9295669-8358267?ie=UTF8&amp;sort_by=MostRecentReview">See all my reviews</a></div></div><div style="clear:both;"></div>
+      </div>
+      <div class="tiny" style="margin-bottom:0.5em;">
+        <b><span class="h3color tiny">This review is from: </span>Harry Potter and the Goblet of Fire (Book 4) (Hardcover)</b>
+      </div>
+
+I find it quite interesting that the folks who write those really crushing, insulting and long-winded reviews never seem to be able to spell, not to mention form a grammatically correct sentence. This goes for all books, not just Harry Potter by the way. <p>So Rowling isn't the best writer who had ever lived. So what? I've read so-called best sellers that do not reach up to her ankles. The story is engaging and entertaining and if you are too sophisticated to be able to take a little predictability then it's your bad luck. How realistic and &quot;believable&quot; do want a book to be? This is supposed to be an escape from reality, not a repetition of your day at work.<p>As to the ending... if you are one of those over-protective parents who attempt to screen their kids from anything BAD, you might want to read this first. As far as I'm concerned, a little violence in a book doesn't hurt. As a child I've always reveled in a direct threat to the main character. I wanted to be SCARED. It made my stomach tingle. And guess what? I'm not out there shooting up school classrooms. I have, quite literally, never hurt a fly.  I think we're too worried about what kind of example books and media give to our children. THEY DON'T - WE AS THE PARENTS DO. The media are meant as entertainment and release, and as long as we are our kids' role models that is all they will be. <p>Read on. Just for the fun of it. Don't play the critic, just enjoy it.
+      <div style="padding-top: 10px; clear: both; width: 100%;">
+
+        <div style="float:left; padding-right:15px; border-right:1px solid #CCCCCC"><div style="padding-bottom:5px;"><b class="tiny" style="color:#666666;white-space:nowrap;">Help other customers find the most helpful reviews</b>&nbsp;</div><div style="width:300px;">
+
+
+
+
+
+
+
+
+
+<a name="R2804RB4S34W2K.2115.Helpful.Reviews" style="font-size:1px;"> </a><span
+class="crVotingButtons"><nobr><span class="votingPrompt">Was this review helpful to you?&nbsp;</span><a rel="nofollow" class="votingButtonReviews" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2804RB4S34W2K/Helpful/1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=E7C26B3E3ED302D11935A25107CF698CE168D36D&voteAnchorName=R2804RB4S34W2K.2115.Helpful.Reviews&voteSessionID=179-9295669-8358267"><span class="cmtySprite s_largeYes " ><span>Yes</span></span></a>
+<a rel="nofollow" class="votingButtonReviews" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2804RB4S34W2K/Helpful/-1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=13371B05913C28A2D8FF0A98C065CEA53298862D&voteAnchorName=R2804RB4S34W2K.2115.Helpful.Reviews&voteSessionID=179-9295669-8358267"><span class="cmtySprite s_largeNo " ><span>No</span></span></a></nobr> <span class="votingMessage"></span></span>
+
+</div></div><div style="float:left;"><div style="padding-left:15px;"><div style="white-space:nowrap;"><span class='tiny'>
+
+
+
+
+
+
+
+
+<a name="R2804RB4S34W2K.2115.Inappropriate.Reviews" style="font-size:1px;"> </a><span class="reportingButton"><nobr><a rel="nofollow" class="reportingButton" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2804RB4S34W2K/Inappropriate/1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=3103CBF6316C8EAC8A72ECA0D6FBD1A377698F6E&voteAnchorName=R2804RB4S34W2K.2115.Inappropriate.Reviews&voteSessionID=179-9295669-8358267"
+>Report abuse</a></nobr></span>
+</span> <span style="color:#CCCCCC;">|</span> <span class="tiny"><a href="http://www.amazon.com/review/R2804RB4S34W2K/ref=cm_cr_pr_perm/?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=" >Permalink</a></span></div><div style="white-space:nowrap;padding-left:-5px;padding-top:5px;"><a href="http://www.amazon.com/review/R2804RB4S34W2K/ref=cm_cr_pr_cmt/179-9295669-8358267?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=#wasThisHelpful" ><span class="swSprite s_comment " ><span>Comment</span></span></a>&nbsp;<a href="http://www.amazon.com/review/R2804RB4S34W2K/ref=cm_cr_pr_cmt/179-9295669-8358267?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=#wasThisHelpful" >Comment</a></div></div></div><div style="clear:both;"></div>
+      </div>
+      <br />
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BOUNDARY -->
+<a name="R1V6PA4WUV7UCU"></a><br />
+
+
+<div style="margin-left:0.5em;">
+    
+      <div style="margin-bottom:0.5em;">
+        <span style="margin-right:5px;"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span> </span>
+        <span style="vertical-align:middle;"><b>Best Potter Book Yet</b>, <nobr>March 18, 2001</nobr></span>
+      </div>
+      <div style="margin-bottom:0.5em;">
+        <div><div style="float:left;">By&nbsp;</div><div style="float:left;"><a href="http://www.amazon.com/gp/pdp/profile/A2R6XZEDBEPGJU/ref=cm_cr_pr_pdp/179-9295669-8358267" ><span style = "font-weight: bold;">wendy c. silberhorn</span></a> (San Diego, CA United States)  - <a href="http://www.amazon.com/gp/cdp/member-reviews/A2R6XZEDBEPGJU/ref=cm_cr_pr_auth_rev/179-9295669-8358267?ie=UTF8&amp;sort_by=MostRecentReview">See all my reviews</a></div></div><div style="clear:both;"></div>
+      </div>
+      <div class="tiny" style="margin-bottom:0.5em;">
+        <b><span class="h3color tiny">This review is from: </span>Harry Potter and the Goblet of Fire (Book 4) (Hardcover)</b>
+      </div>
+
+I'm 20 years old, and I've just been introduced to Harry Potter and his wonderful friends.  I can't believe it took me this long to take the advice of my friends and read J.K. Rowling's books.  They are the best books I have ever had the pleasure of reading.  I bought all four in hardback and I read them in two days.  These books are addicting.  I think Goblet of Fire is the best so far, and I can't wait for the fifth in the series.  I've become a diehard fan and I love these books!
+      <div style="padding-top: 10px; clear: both; width: 100%;">
+
+        <div style="float:left; padding-right:15px; border-right:1px solid #CCCCCC"><div style="padding-bottom:5px;"><b class="tiny" style="color:#666666;white-space:nowrap;">Help other customers find the most helpful reviews</b>&nbsp;</div><div style="width:300px;">
+
+
+
+
+
+
+
+
+
+<a name="R1V6PA4WUV7UCU.2115.Helpful.Reviews" style="font-size:1px;"> </a><span
+class="crVotingButtons"><nobr><span class="votingPrompt">Was this review helpful to you?&nbsp;</span><a rel="nofollow" class="votingButtonReviews" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R1V6PA4WUV7UCU/Helpful/1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=22446EA7C7EEF3BD152EC1CF1A234C8F79FA3803&voteAnchorName=R1V6PA4WUV7UCU.2115.Helpful.Reviews&voteSessionID=179-9295669-8358267"><span class="cmtySprite s_largeYes " ><span>Yes</span></span></a>
+<a rel="nofollow" class="votingButtonReviews" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R1V6PA4WUV7UCU/Helpful/-1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=03918A53DE42866D76B06A92C315497306D7277D&voteAnchorName=R1V6PA4WUV7UCU.2115.Helpful.Reviews&voteSessionID=179-9295669-8358267"><span class="cmtySprite s_largeNo " ><span>No</span></span></a></nobr> <span class="votingMessage"></span></span>
+
+</div></div><div style="float:left;"><div style="padding-left:15px;"><div style="white-space:nowrap;"><span class='tiny'>
+
+
+
+
+
+
+
+
+<a name="R1V6PA4WUV7UCU.2115.Inappropriate.Reviews" style="font-size:1px;"> </a><span class="reportingButton"><nobr><a rel="nofollow" class="reportingButton" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R1V6PA4WUV7UCU/Inappropriate/1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=15C7DB5BC5AC875F9BF9D2ED11F7B8E3DF9ECEB2&voteAnchorName=R1V6PA4WUV7UCU.2115.Inappropriate.Reviews&voteSessionID=179-9295669-8358267"
+>Report abuse</a></nobr></span>
+</span> <span style="color:#CCCCCC;">|</span> <span class="tiny"><a href="http://www.amazon.com/review/R1V6PA4WUV7UCU/ref=cm_cr_pr_perm/?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=" >Permalink</a></span></div><div style="white-space:nowrap;padding-left:-5px;padding-top:5px;"><a href="http://www.amazon.com/review/R1V6PA4WUV7UCU/ref=cm_cr_pr_cmt/179-9295669-8358267?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=#wasThisHelpful" ><span class="swSprite s_comment " ><span>Comment</span></span></a>&nbsp;<a href="http://www.amazon.com/review/R1V6PA4WUV7UCU/ref=cm_cr_pr_cmt/179-9295669-8358267?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=#wasThisHelpful" >Comment</a></div></div></div><div style="clear:both;"></div>
+      </div>
+      <br />
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BOUNDARY -->
+<a name="R3OLNPVXTPQNHD"></a><br />
+
+
+<div style="margin-left:0.5em;">
+    
+      <div style="margin-bottom:0.5em;">
+        1 of 2 people found the following review helpful
+      </div>
+      <div style="margin-bottom:0.5em;">
+        <span style="margin-right:5px;"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span> </span>
+        <span style="vertical-align:middle;"><b>What a BOOK!</b>, <nobr>March 17, 2001</nobr></span>
+      </div>
+      <div style="margin-bottom:0.5em;">
+        By <b>A Customer</b><br />
+      </div>
+      <div class="tiny" style="margin-bottom:0.5em;">
+        <b><span class="h3color tiny">This review is from: </span>Harry Potter and the Goblet of Fire (Book 4) (Hardcover)</b>
+      </div>
+
+If this rewiew have spell errors, I'm Sorry; I'm from Latinoamerica.That is the best book tan I read. If you think that the others are good, NO, That IS THE BETTER. Using details thath in the other books aren't importants, Rowling made a large and surprisely story. I can't Over-take to you, Readers, about the complete sory, but is the best of the fourth books. warning: Harry Potter may be adictive. If you read it you can't wait for the next book.
+      <div style="padding-top: 10px; clear: both; width: 100%;">
+
+        <div style="float:left; padding-right:15px; border-right:1px solid #CCCCCC"><div style="padding-bottom:5px;"><b class="tiny" style="color:#666666;white-space:nowrap;">Help other customers find the most helpful reviews</b>&nbsp;</div><div style="width:300px;">
+
+
+
+
+
+
+
+
+
+<a name="R3OLNPVXTPQNHD.2115.Helpful.Reviews" style="font-size:1px;"> </a><span
+class="crVotingButtons"><nobr><span class="votingPrompt">Was this review helpful to you?&nbsp;</span><a rel="nofollow" class="votingButtonReviews" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R3OLNPVXTPQNHD/Helpful/1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=39A9AB8A7BE4D1AC92CDF90605DF4FA1EB259865&voteAnchorName=R3OLNPVXTPQNHD.2115.Helpful.Reviews&voteSessionID=179-9295669-8358267"><span class="cmtySprite s_largeYes " ><span>Yes</span></span></a>
+<a rel="nofollow" class="votingButtonReviews" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R3OLNPVXTPQNHD/Helpful/-1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=DB0BF68908102A746536301FE0821A9EA433D33C&voteAnchorName=R3OLNPVXTPQNHD.2115.Helpful.Reviews&voteSessionID=179-9295669-8358267"><span class="cmtySprite s_largeNo " ><span>No</span></span></a></nobr> <span class="votingMessage"></span></span>
+
+</div></div><div style="float:left;"><div style="padding-left:15px;"><div style="white-space:nowrap;"><span class='tiny'>
+
+
+
+
+
+
+
+
+<a name="R3OLNPVXTPQNHD.2115.Inappropriate.Reviews" style="font-size:1px;"> </a><span class="reportingButton"><nobr><a rel="nofollow" class="reportingButton" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R3OLNPVXTPQNHD/Inappropriate/1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=1561F1F8D875461131BFB33FFD9410DC0055BCF7&voteAnchorName=R3OLNPVXTPQNHD.2115.Inappropriate.Reviews&voteSessionID=179-9295669-8358267"
+>Report abuse</a></nobr></span>
+</span> <span style="color:#CCCCCC;">|</span> <span class="tiny"><a href="http://www.amazon.com/review/R3OLNPVXTPQNHD/ref=cm_cr_pr_perm/?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=" >Permalink</a></span></div><div style="white-space:nowrap;padding-left:-5px;padding-top:5px;"><a href="http://www.amazon.com/review/R3OLNPVXTPQNHD/ref=cm_cr_pr_cmt/179-9295669-8358267?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=#wasThisHelpful" ><span class="swSprite s_comment " ><span>Comment</span></span></a>&nbsp;<a href="http://www.amazon.com/review/R3OLNPVXTPQNHD/ref=cm_cr_pr_cmt/179-9295669-8358267?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=#wasThisHelpful" >Comment</a></div></div></div><div style="clear:both;"></div>
+      </div>
+      <br />
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BOUNDARY -->
+<a name="R3Q85HAGF9WU5F"></a><br />
+
+
+<div style="margin-left:0.5em;">
+    
+      <div style="margin-bottom:0.5em;">
+        1 of 1 people found the following review helpful
+      </div>
+      <div style="margin-bottom:0.5em;">
+        <span style="margin-right:5px;"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span> </span>
+        <span style="vertical-align:middle;"><b>Harry Potter and the Goblet of Fire--This book rules!!!!!!</b>, <nobr>March 17, 2001</nobr></span>
+      </div>
+      <div style="margin-bottom:0.5em;">
+        <b>A Kid's Review</b><br />
+      </div>
+      <div class="tiny" style="margin-bottom:0.5em;">
+        <b><span class="h3color tiny">This review is from: </span>Harry Potter and the Goblet of Fire (Book 4) (Hardcover)</b>
+      </div>
+
+This book is the best book of them all. It is full of suspense!! The Harry Potter series is the best ever. If you haven't read them yet you're missing out!!!
+      <div style="padding-top: 10px; clear: both; width: 100%;">
+
+        <div style="float:left; padding-right:15px; border-right:1px solid #CCCCCC"><div style="padding-bottom:5px;"><b class="tiny" style="color:#666666;white-space:nowrap;">Help other customers find the most helpful reviews</b>&nbsp;</div><div style="width:300px;">
+
+
+
+
+
+
+
+
+
+<a name="R3Q85HAGF9WU5F.2115.Helpful.Reviews" style="font-size:1px;"> </a><span
+class="crVotingButtons"><nobr><span class="votingPrompt">Was this review helpful to you?&nbsp;</span><a rel="nofollow" class="votingButtonReviews" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R3Q85HAGF9WU5F/Helpful/1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=6FF5D4AEAA66C15FD0D3170A1D9571A952689595&voteAnchorName=R3Q85HAGF9WU5F.2115.Helpful.Reviews&voteSessionID=179-9295669-8358267"><span class="cmtySprite s_largeYes " ><span>Yes</span></span></a>
+<a rel="nofollow" class="votingButtonReviews" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R3Q85HAGF9WU5F/Helpful/-1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=56C039F88917ABBAEDE3FF2F13D987D635D51BB5&voteAnchorName=R3Q85HAGF9WU5F.2115.Helpful.Reviews&voteSessionID=179-9295669-8358267"><span class="cmtySprite s_largeNo " ><span>No</span></span></a></nobr> <span class="votingMessage"></span></span>
+
+</div></div><div style="float:left;"><div style="padding-left:15px;"><div style="white-space:nowrap;"><span class='tiny'>
+
+
+
+
+
+
+
+
+<a name="R3Q85HAGF9WU5F.2115.Inappropriate.Reviews" style="font-size:1px;"> </a><span class="reportingButton"><nobr><a rel="nofollow" class="reportingButton" href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R3Q85HAGF9WU5F/Inappropriate/1/ref=cm_cr_prvoteyn/179-9295669-8358267?ie=UTF8&target=aHR0cDovL3d3dy5hbWF6b24uY29tL3Jldmlldy8wNDM5MTM5NTk3L3JlZj1jbV9jcl9wcnZvdGVyZHIvMTc5LTkyOTU2NjktODM1ODI2Nz9fZW5jb2Rpbmc9VVRGOCZwYWdlTnVtYmVyPTE4MyZzaG93Vmlld3BvaW50cz0wJnNvcnRCeT1ieVN1Ym1pc3Npb25EYXRlRGVzY2VuZGluZw&token=7CD9D845432D223D5B1E6CE46FC4DEC3E4A91764&voteAnchorName=R3Q85HAGF9WU5F.2115.Inappropriate.Reviews&voteSessionID=179-9295669-8358267"
+>Report abuse</a></nobr></span>
+</span> <span style="color:#CCCCCC;">|</span> <span class="tiny"><a href="http://www.amazon.com/review/R3Q85HAGF9WU5F/ref=cm_cr_pr_perm/?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=" >Permalink</a></span></div><div style="white-space:nowrap;padding-left:-5px;padding-top:5px;"><a href="http://www.amazon.com/review/R3Q85HAGF9WU5F/ref=cm_cr_pr_cmt/179-9295669-8358267?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=#wasThisHelpful" ><span class="swSprite s_comment " ><span>Comment</span></span></a>&nbsp;<a href="http://www.amazon.com/review/R3Q85HAGF9WU5F/ref=cm_cr_pr_cmt/179-9295669-8358267?ie=UTF8&ASIN=0439139597&linkCode=&nodeID=&tag=#wasThisHelpful" >Comment</a></div></div></div><div style="clear:both;"></div>
+      </div>
+      <br />
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BOUNDARY -->
+<a name="R1X4EYGW4RY55S"></a><br />
+
+
+<div style="margin-left:0.5em;">
+    
+      <div style="margin-bottom:0.5em;">
+        4 of 6 people found the following review helpful
+      </div>
+      <div style="margin-bottom:0.5em;">
+        <span s
