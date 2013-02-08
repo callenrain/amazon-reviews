@@ -1,0 +1,22 @@
+BASELINES
+train on last 80 kindle, test on first 20 kindle (6316 reviews)
+DL:89.51%	NB:84.68%
+
+TESTS
+train on kindle, test on fire (3198 reviews)
+DL:80.72% 	NB:83.94%
+
+train on kindle, test on nook (182 reviews)
+DL:88.89%	NB:100%
+
+train on kindle, test on macbook (192 reviews)
+DL:76.47%	NB:88.24%
+
+train on kindle, test on taylor (210 reviews)
+DL:100%		NB:65.23%
+
+train on kindle, test on levi (573 reviews)
+DL:66.22%	NB:70.27
+
+train on kindle, test on lincoln (3895 reviews)
+DL:79.58%	NB:73.88%

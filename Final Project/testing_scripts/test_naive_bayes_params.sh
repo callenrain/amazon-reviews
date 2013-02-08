@@ -1,0 +1,7 @@
+python naivebayes.py False False False False False False 500 'allbooks.txt'
+python naivebayes.py False False False False False False 700 'allbooks.txt'
+python naivebayes.py False False False False False False 800 'allbooks.txt'
+python naivebayes.py False False False False False False 900 'allbooks.txt'
+python naivebayes.py False False False False False False 1000 'allbooks.txt'
+python naivebayes.py False False False False False False 1500 'allbooks.txt'
+python naivebayes.py False False False False False False 5000 'allbooks.txt'
